@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SceduleModifier
+</name>
+</assembly>
+<members>
+<member name="T:SceduleModifier.FWFCSchedulerDataSet.EmployeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet.PreviousWorkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet.ScheduleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet.SpecialDatesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet.UnavailableDaysDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet.EmployeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet.PreviousWorkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet.ScheduleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet.SpecialDatesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet.UnavailableDaysRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet.EmployeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet.PreviousWorkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet.ScheduleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet.SpecialDatesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet.UnavailableDaysRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSetTableAdapters.EmployeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSetTableAdapters.PreviousWorkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSetTableAdapters.ScheduleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSetTableAdapters.SpecialDatesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSetTableAdapters.UnavailableDaysTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SceduleModifier.FWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SceduleModifier.FWFCSchedulerDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SceduleModifier.FWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SceduleModifier.FWFCSchedulerDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SceduleModifier.FWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SceduleModifier.FWFCSchedulerDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SceduleModifier.FWFCSchedulerDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SceduleModifier.FWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateAll(SceduleModifier.FWFCSchedulerDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SceduleModifier.FWFCSchedulerDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:SceduleModifier.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SceduleModifier.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SceduleModifier.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
