@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="ce733101-8940-4ed6-9699-7afc49c00050" ChangeDateTime="02/02/2016 17:23:42">
+    <Property Name="ElementName" Value="[dbo].[TimeUnavailable].[Dates Unavailable]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TimeUnavailable]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="DatesUnavailable" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="c01c3c68-af7c-474a-9cca-0672f238dd65" ChangeDateTime="02/02/2016 17:23:48">
+    <Property Name="ElementName" Value="[dbo].[TimeUnavailable].[Clinician]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TimeUnavailable]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ClinicianName" />
+  </Operation>
+</Operations>
