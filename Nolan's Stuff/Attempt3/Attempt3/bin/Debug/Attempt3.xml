@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Attempt3
+</name>
+</assembly>
+<members>
+<member name="T:Attempt3.FWFCSchedulerDataSet.EmployeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet.PreviousWorkDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet.ScheduleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet.SpecialDatesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet.UnavailableDaysDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet.EmployeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet.PreviousWorkRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet.ScheduleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet.SpecialDatesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet.UnavailableDaysRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet.EmployeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet.PreviousWorkRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet.ScheduleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet.SpecialDatesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet.UnavailableDaysRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSetTableAdapters.EmployeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSetTableAdapters.PreviousWorkTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSetTableAdapters.ScheduleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSetTableAdapters.SpecialDatesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSetTableAdapters.UnavailableDaysTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Attempt3.FWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Attempt3.FWFCSchedulerDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Attempt3.FWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Attempt3.FWFCSchedulerDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Attempt3.FWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Attempt3.FWFCSchedulerDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Attempt3.FWFCSchedulerDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Attempt3.FWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateAll(Attempt3.FWFCSchedulerDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Attempt3.FWFCSchedulerDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Attempt3.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Attempt3.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Attempt3.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
