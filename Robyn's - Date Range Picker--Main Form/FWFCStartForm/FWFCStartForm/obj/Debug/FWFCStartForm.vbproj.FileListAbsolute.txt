@@ -1,0 +1,10 @@
+c:\users\robyndias\documents\visual studio 2013\Projects\FWFCStartForm\FWFCStartForm\bin\Debug\FWFCStartForm.exe.config
+c:\users\robyndias\documents\visual studio 2013\Projects\FWFCStartForm\FWFCStartForm\bin\Debug\FWFCStartForm.exe
+c:\users\robyndias\documents\visual studio 2013\Projects\FWFCStartForm\FWFCStartForm\bin\Debug\FWFCStartForm.pdb
+c:\users\robyndias\documents\visual studio 2013\Projects\FWFCStartForm\FWFCStartForm\bin\Debug\FWFCStartForm.xml
+c:\users\robyndias\documents\visual studio 2013\Projects\FWFCStartForm\FWFCStartForm\obj\Debug\FWFCStartForm.Resources.resources
+c:\users\robyndias\documents\visual studio 2013\Projects\FWFCStartForm\FWFCStartForm\obj\Debug\FWFCStartForm.vbproj.GenerateResource.Cache
+c:\users\robyndias\documents\visual studio 2013\Projects\FWFCStartForm\FWFCStartForm\obj\Debug\FWFCStartForm.exe
+c:\users\robyndias\documents\visual studio 2013\Projects\FWFCStartForm\FWFCStartForm\obj\Debug\FWFCStartForm.xml
+c:\users\robyndias\documents\visual studio 2013\Projects\FWFCStartForm\FWFCStartForm\obj\Debug\FWFCStartForm.pdb
+c:\users\robyndias\documents\visual studio 2013\Projects\FWFCStartForm\FWFCStartForm\obj\Debug\FWFCStartForm.StartForm.resources

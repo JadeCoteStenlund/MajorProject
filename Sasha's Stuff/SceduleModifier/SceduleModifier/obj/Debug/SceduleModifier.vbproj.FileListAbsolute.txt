@@ -8,3 +8,7 @@ c:\users\sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModi
 c:\users\sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModifier\obj\Debug\SceduleModifier.exe
 c:\users\sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModifier\obj\Debug\SceduleModifier.xml
 c:\users\sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModifier\obj\Debug\SceduleModifier.pdb
+C:\Users\RobynDias\Desktop\Repo\MajorProject\Sasha's Stuff\SceduleModifier\SceduleModifier\bin\Debug\SceduleModifier.exe.config
+C:\Users\RobynDias\Desktop\Repo\MajorProject\Sasha's Stuff\SceduleModifier\SceduleModifier\obj\Debug\SceduleModifier.exe
+C:\Users\RobynDias\Desktop\Repo\MajorProject\Sasha's Stuff\SceduleModifier\SceduleModifier\obj\Debug\SceduleModifier.xml
+C:\Users\RobynDias\Desktop\Repo\MajorProject\Sasha's Stuff\SceduleModifier\SceduleModifier\obj\Debug\SceduleModifier.pdb
