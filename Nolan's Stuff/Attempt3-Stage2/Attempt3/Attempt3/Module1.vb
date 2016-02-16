@@ -48,7 +48,7 @@ Module Module1
         FWFCconnect.ConnectionString = "Data Source=(localdb)\Projects;Initial Catalog=FWFCScheduler;Integrated Security=True"
         FWFCconnect.Open()
 
-        Dim shiftType As String = "O"   'placeholder shift type
+        Dim shiftType As String = "O"   'placeholder shift type         A = After Hours, O = Oncall  B= Both
         Dim lowestDW As Integer     'lowest DaysWorked variable
         Dim lowestHoliday As Integer 'lowest HolidaysWorked variable
         Dim lowestWeekend As Integer 'lowest WeekendsWorked variable
