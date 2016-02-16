@@ -6,10 +6,10 @@ Imports System.Data.SqlClient
 'FWFC Sheduler
 
 ' TO DO:
-' Sql Commands can be replaced with Stored Procedures 
+' Sql Commands can be updated with Sql Command Stored Procedures 
 ' Import table adapters for the dataset
 ' Replace the current Dataset with the updated one with store procedures from Jordan Crago
-' Initialise TableAdapters for each Table in InitTableAdapters()
+' Sql Commmand --- CommandType = CommandType.StoredProcedure to be used where stored procedures are to be used
 Module Module1
 
     Dim alreadyChecked As Boolean = False     'To flag a day as already checked
