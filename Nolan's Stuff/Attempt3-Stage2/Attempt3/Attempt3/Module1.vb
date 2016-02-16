@@ -6,6 +6,8 @@ Imports System.Data.SqlClient
 'FWFC Sheduler
 
 ' TO DO:
+' Ask input for a way to toggle an employee as active
+' A way to check if an employee is Actively working and not on Leave
 ' Sql Commands can be updated with Sql Command Stored Procedures 
 ' Import table adapters for the dataset
 ' Replace the current Dataset with the updated one with store procedures from Jordan Crago
@@ -15,13 +17,14 @@ Module Module1
     Dim alreadyChecked As Boolean = False     'To flag a day as already checked
     Dim FWFCconnect As New SqlConnection
     Dim phDate As Date = #2/1/2016#     'inital date of the month  to be changed with a way to pull the current month
+    'DateTime.Now.Month to retrieve the current month the program is being run in as Integer
     Sub Main()
         'Connection string for Sql Commands
         FWFCconnect.ConnectionString = "Data Source=(localdb)\Projects;Initial Catalog=FWFCScheduler;Integrated Security=True"
 
         Dim inputID As Integer = 1   'Inital EmpID of 1
-        Dim maxIDs As Integer = 6    'Placeholder Total EMPID
-        Dim maxDays = 29             'Placeholder Total days of Month
+        Dim maxIDs As Integer = 6    'Placeholder Total EMPID       Max Active EmployeeID's
+        Dim maxDays = 29             'DateTime.DaysInMonth to retrieeve the maximum days in the month
         Dim startDay = 1             'start of every month is the 1st day
 
         Do While (startDay <= maxDays)   'Loops through the days of the month
@@ -60,6 +63,7 @@ Module Module1
         Dim iterateDW As Boolean    'holds the bool value to see if the DaysWorked(lowestDW) was iterated to the next highest value
         Dim iterateHoliday As Boolean   'holds the bool value to see if the Holidays(lowestHoliday) worked was iterated to the next highest value
         Dim iterateWeekend As Boolean   'holds the bool value to see if the Weekends(lowestWeekend) worked was iterated to the next highest value
+        Dim returnedActive As String 'Holds the value of the Active in the Employee Table  
 
         'finds the Unavailable days for the current EmpID
         Dim foundDate
@@ -170,6 +174,14 @@ Module Module1
 
         End Try
 
+        Try
+            'returnedActive = storedprocedure to pull the value of Active from dbo.Employee
+            'temp holder
+            returnedActive = "Y"
+        Catch ex As System.NullReferenceException
+
+        End Try
+
         iterateDW = True        'Resets values of the iterates
         iterateHoliday = True   '""
         iterateWeekend = True   '""
@@ -181,7 +193,8 @@ Module Module1
 
         Do While (checkIterator)    'Iterates over the lowest Daysworked and holidays and weekends to find an available employee
 
-            If (canWork And returnedDW <= lowestDW And returnedHoliday <= lowestHoliday And returnedWeekend <= lowestWeekend And alreadyChecked = False) Then 'Checks to see if the Employee can work on dayToCheck on the Loop 
+            'Add condition that an Employee must be Active and not on leave to be able to be assigned work      Options= "Y" or "N"
+            If (canWork And returnedDW <= lowestDW And returnedHoliday <= lowestHoliday And returnedWeekend <= lowestWeekend And returnedActive = "Y" And alreadyChecked = False) Then 'Checks to see if the Employee can work on dayToCheck on the Loop 
 
                 'This is where you write to the schedule
 

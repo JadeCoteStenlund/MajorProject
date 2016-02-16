@@ -11,3 +11,8 @@ C:\MajorProjectRepo\MajorProject\Nolan's Stuff\Attempt3-Stage2\Attempt3\Attempt3
 C:\MajorProjectRepo\MajorProject\Nolan's Stuff\Attempt3-Stage2\Attempt3\Attempt3\obj\Debug\Attempt3.exe
 C:\MajorProjectRepo\MajorProject\Nolan's Stuff\Attempt3-Stage2\Attempt3\Attempt3\obj\Debug\Attempt3.xml
 C:\MajorProjectRepo\MajorProject\Nolan's Stuff\Attempt3-Stage2\Attempt3\Attempt3\obj\Debug\Attempt3.pdb
+C:\MajorProjectRepo\MajorProject\Nolan's Stuff\Attempt3-Stage2\Attempt3\Attempt3\bin\Debug\Attempt3.exe
+C:\MajorProjectRepo\MajorProject\Nolan's Stuff\Attempt3-Stage2\Attempt3\Attempt3\bin\Debug\Attempt3.pdb
+C:\MajorProjectRepo\MajorProject\Nolan's Stuff\Attempt3-Stage2\Attempt3\Attempt3\bin\Debug\Attempt3.xml
+C:\MajorProjectRepo\MajorProject\Nolan's Stuff\Attempt3-Stage2\Attempt3\Attempt3\obj\Debug\Attempt3.Resources.resources
+C:\MajorProjectRepo\MajorProject\Nolan's Stuff\Attempt3-Stage2\Attempt3\Attempt3\obj\Debug\Attempt3.vbproj.GenerateResource.Cache
