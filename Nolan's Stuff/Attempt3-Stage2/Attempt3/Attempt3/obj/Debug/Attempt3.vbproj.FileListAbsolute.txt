@@ -7,3 +7,7 @@ C:\Users\Nolan\Documents\Visual Studio 2013\Projects\Major Project\Attempt3\Atte
 C:\Users\Nolan\Documents\Visual Studio 2013\Projects\Major Project\Attempt3\Attempt3\obj\Debug\Attempt3.exe
 C:\Users\Nolan\Documents\Visual Studio 2013\Projects\Major Project\Attempt3\Attempt3\obj\Debug\Attempt3.xml
 C:\Users\Nolan\Documents\Visual Studio 2013\Projects\Major Project\Attempt3\Attempt3\obj\Debug\Attempt3.pdb
+C:\MajorProjectRepo\MajorProject\Nolan's Stuff\Attempt3-Stage2\Attempt3\Attempt3\bin\Debug\Attempt3.exe.config
+C:\MajorProjectRepo\MajorProject\Nolan's Stuff\Attempt3-Stage2\Attempt3\Attempt3\obj\Debug\Attempt3.exe
+C:\MajorProjectRepo\MajorProject\Nolan's Stuff\Attempt3-Stage2\Attempt3\Attempt3\obj\Debug\Attempt3.xml
+C:\MajorProjectRepo\MajorProject\Nolan's Stuff\Attempt3-Stage2\Attempt3\Attempt3\obj\Debug\Attempt3.pdb

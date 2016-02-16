@@ -24,8 +24,6 @@ Module Module1
         Dim maxDays = 29             'Placeholder Total days of Month
         Dim startDay = 1             'start of every month is the 1st day
 
-        InitTableAdapters()
-
         Do While (startDay <= maxDays)   'Loops through the days of the month
 
             Do While (inputID <= maxIDs + 1)    'Loops through the empID's until all are checked
@@ -42,11 +40,6 @@ Module Module1
 
 
         Console.ReadKey()
-    End Sub
-
-    Public Sub InitTableAdapters()
-        'TODO:
-        'Initialize the TableAdapters for each table in here
     End Sub
 
     Public Sub CheckAvailability(empID As Integer, daytoCheck As Date, dayCount As Integer)
@@ -72,7 +65,7 @@ Module Module1
         Dim foundDate
         Try
             Dim sqlCmdDate As New SqlCommand()
-            sqlCmdDate.Connection = FWFCconnect
+            sqlCmdDate.Connection = FWFCconnect                                                                         '\/ Change to UnavailableDay with new dataset
             sqlCmdDate.CommandText = "SELECT UnavailableDays FROM dbo.UnavailableDays WHERE EmployeeID = @EmployeeID AND UnavailableDays = @UADays "
             sqlCmdDate.Parameters.AddWithValue("@EmployeeID", empID)
             sqlCmdDate.Parameters.AddWithValue("@UADays", daytoCheck)
@@ -181,6 +174,11 @@ Module Module1
         iterateHoliday = True   '""
         iterateWeekend = True   '""
         Dim checkIterator As Boolean = True
+
+
+        'Ideas to fix loop
+        'DO While canWork to skip over if the employee cant work to make more efficient
+
         Do While (checkIterator)    'Iterates over the lowest Daysworked and holidays and weekends to find an available employee
 
             If (canWork And returnedDW <= lowestDW And returnedHoliday <= lowestHoliday And returnedWeekend <= lowestWeekend And alreadyChecked = False) Then 'Checks to see if the Employee can work on dayToCheck on the Loop 
