@@ -353,7 +353,7 @@ Partial Class StartForm
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ViewToolStripMenuItem, Me.PrintToolStripMenuItem, Me.AdminToolStripMenuItem, Me.HistoryToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(1192, 31)
+        Me.MenuStrip1.Size = New System.Drawing.Size(1212, 31)
         Me.MenuStrip1.TabIndex = 0
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -503,14 +503,14 @@ Partial Class StartForm
         Me.TableLayoutPanel1.Location = New System.Drawing.Point(12, 66)
         Me.TableLayoutPanel1.Name = "TableLayoutPanel1"
         Me.TableLayoutPanel1.RowCount = 7
-        Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 7.952867!))
+        Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 6.988564!))
+        Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.01016!))
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.34119!))
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.34119!))
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.34119!))
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.34119!))
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.34119!))
-        Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.34119!))
-        Me.TableLayoutPanel1.Size = New System.Drawing.Size(1169, 816)
+        Me.TableLayoutPanel1.Size = New System.Drawing.Size(1169, 788)
         Me.TableLayoutPanel1.TabIndex = 1
         '
         'gb42
@@ -523,9 +523,9 @@ Partial Class StartForm
         Me.gb42.Controls.Add(Me.d42)
         Me.gb42.Controls.Add(Me.ah42)
         Me.gb42.Controls.Add(Me.oc42)
-        Me.gb42.Location = New System.Drawing.Point(1004, 689)
+        Me.gb42.Location = New System.Drawing.Point(1004, 669)
         Me.gb42.Name = "gb42"
-        Me.gb42.Size = New System.Drawing.Size(161, 123)
+        Me.gb42.Size = New System.Drawing.Size(161, 115)
         Me.gb42.TabIndex = 48
         Me.gb42.TabStop = False
         Me.gb42.Text = " "
@@ -591,9 +591,9 @@ Partial Class StartForm
         Me.gb41.Controls.Add(Me.d41)
         Me.gb41.Controls.Add(Me.ah41)
         Me.gb41.Controls.Add(Me.oc41)
-        Me.gb41.Location = New System.Drawing.Point(837, 689)
+        Me.gb41.Location = New System.Drawing.Point(837, 669)
         Me.gb41.Name = "gb41"
-        Me.gb41.Size = New System.Drawing.Size(160, 123)
+        Me.gb41.Size = New System.Drawing.Size(160, 115)
         Me.gb41.TabIndex = 47
         Me.gb41.TabStop = False
         Me.gb41.Text = " "
@@ -659,9 +659,9 @@ Partial Class StartForm
         Me.gb40.Controls.Add(Me.d40)
         Me.gb40.Controls.Add(Me.ah40)
         Me.gb40.Controls.Add(Me.oc40)
-        Me.gb40.Location = New System.Drawing.Point(672, 689)
+        Me.gb40.Location = New System.Drawing.Point(672, 669)
         Me.gb40.Name = "gb40"
-        Me.gb40.Size = New System.Drawing.Size(158, 123)
+        Me.gb40.Size = New System.Drawing.Size(158, 115)
         Me.gb40.TabIndex = 46
         Me.gb40.TabStop = False
         Me.gb40.Text = " "
@@ -727,9 +727,9 @@ Partial Class StartForm
         Me.gb39.Controls.Add(Me.d39)
         Me.gb39.Controls.Add(Me.ah39)
         Me.gb39.Controls.Add(Me.oc39)
-        Me.gb39.Location = New System.Drawing.Point(505, 689)
+        Me.gb39.Location = New System.Drawing.Point(505, 669)
         Me.gb39.Name = "gb39"
-        Me.gb39.Size = New System.Drawing.Size(160, 123)
+        Me.gb39.Size = New System.Drawing.Size(160, 115)
         Me.gb39.TabIndex = 45
         Me.gb39.TabStop = False
         Me.gb39.Text = " "
@@ -795,9 +795,9 @@ Partial Class StartForm
         Me.gb38.Controls.Add(Me.d38)
         Me.gb38.Controls.Add(Me.ah38)
         Me.gb38.Controls.Add(Me.oc38)
-        Me.gb38.Location = New System.Drawing.Point(338, 689)
+        Me.gb38.Location = New System.Drawing.Point(338, 669)
         Me.gb38.Name = "gb38"
-        Me.gb38.Size = New System.Drawing.Size(160, 123)
+        Me.gb38.Size = New System.Drawing.Size(160, 115)
         Me.gb38.TabIndex = 44
         Me.gb38.TabStop = False
         Me.gb38.Text = " "
@@ -863,9 +863,9 @@ Partial Class StartForm
         Me.gb37.Controls.Add(Me.d37)
         Me.gb37.Controls.Add(Me.ah37)
         Me.gb37.Controls.Add(Me.oc37)
-        Me.gb37.Location = New System.Drawing.Point(171, 689)
+        Me.gb37.Location = New System.Drawing.Point(171, 669)
         Me.gb37.Name = "gb37"
-        Me.gb37.Size = New System.Drawing.Size(160, 123)
+        Me.gb37.Size = New System.Drawing.Size(160, 115)
         Me.gb37.TabIndex = 43
         Me.gb37.TabStop = False
         Me.gb37.Text = " "
@@ -931,9 +931,9 @@ Partial Class StartForm
         Me.gb36.Controls.Add(Me.d36)
         Me.gb36.Controls.Add(Me.ah36)
         Me.gb36.Controls.Add(Me.oc36)
-        Me.gb36.Location = New System.Drawing.Point(4, 689)
+        Me.gb36.Location = New System.Drawing.Point(4, 669)
         Me.gb36.Name = "gb36"
-        Me.gb36.Size = New System.Drawing.Size(160, 123)
+        Me.gb36.Size = New System.Drawing.Size(160, 115)
         Me.gb36.TabIndex = 42
         Me.gb36.TabStop = False
         Me.gb36.Text = " "
@@ -999,9 +999,9 @@ Partial Class StartForm
         Me.gb35.Controls.Add(Me.d35)
         Me.gb35.Controls.Add(Me.ah35)
         Me.gb35.Controls.Add(Me.oc35)
-        Me.gb35.Location = New System.Drawing.Point(1004, 565)
+        Me.gb35.Location = New System.Drawing.Point(1004, 548)
         Me.gb35.Name = "gb35"
-        Me.gb35.Size = New System.Drawing.Size(161, 117)
+        Me.gb35.Size = New System.Drawing.Size(161, 114)
         Me.gb35.TabIndex = 41
         Me.gb35.TabStop = False
         Me.gb35.Text = " "
@@ -1067,9 +1067,9 @@ Partial Class StartForm
         Me.gb34.Controls.Add(Me.d34)
         Me.gb34.Controls.Add(Me.ah34)
         Me.gb34.Controls.Add(Me.oc34)
-        Me.gb34.Location = New System.Drawing.Point(837, 565)
+        Me.gb34.Location = New System.Drawing.Point(837, 548)
         Me.gb34.Name = "gb34"
-        Me.gb34.Size = New System.Drawing.Size(160, 117)
+        Me.gb34.Size = New System.Drawing.Size(160, 114)
         Me.gb34.TabIndex = 40
         Me.gb34.TabStop = False
         Me.gb34.Text = " "
@@ -1135,9 +1135,9 @@ Partial Class StartForm
         Me.gb33.Controls.Add(Me.d33)
         Me.gb33.Controls.Add(Me.ah33)
         Me.gb33.Controls.Add(Me.oc33)
-        Me.gb33.Location = New System.Drawing.Point(672, 565)
+        Me.gb33.Location = New System.Drawing.Point(672, 548)
         Me.gb33.Name = "gb33"
-        Me.gb33.Size = New System.Drawing.Size(158, 117)
+        Me.gb33.Size = New System.Drawing.Size(158, 114)
         Me.gb33.TabIndex = 39
         Me.gb33.TabStop = False
         Me.gb33.Text = " "
@@ -1203,9 +1203,9 @@ Partial Class StartForm
         Me.gb32.Controls.Add(Me.d32)
         Me.gb32.Controls.Add(Me.ah32)
         Me.gb32.Controls.Add(Me.oc32)
-        Me.gb32.Location = New System.Drawing.Point(505, 565)
+        Me.gb32.Location = New System.Drawing.Point(505, 548)
         Me.gb32.Name = "gb32"
-        Me.gb32.Size = New System.Drawing.Size(160, 117)
+        Me.gb32.Size = New System.Drawing.Size(160, 114)
         Me.gb32.TabIndex = 38
         Me.gb32.TabStop = False
         Me.gb32.Text = " "
@@ -1271,9 +1271,9 @@ Partial Class StartForm
         Me.gb31.Controls.Add(Me.d31)
         Me.gb31.Controls.Add(Me.ah31)
         Me.gb31.Controls.Add(Me.oc31)
-        Me.gb31.Location = New System.Drawing.Point(338, 565)
+        Me.gb31.Location = New System.Drawing.Point(338, 548)
         Me.gb31.Name = "gb31"
-        Me.gb31.Size = New System.Drawing.Size(160, 117)
+        Me.gb31.Size = New System.Drawing.Size(160, 114)
         Me.gb31.TabIndex = 37
         Me.gb31.TabStop = False
         Me.gb31.Text = " "
@@ -1339,9 +1339,9 @@ Partial Class StartForm
         Me.gb30.Controls.Add(Me.d30)
         Me.gb30.Controls.Add(Me.ah30)
         Me.gb30.Controls.Add(Me.oc30)
-        Me.gb30.Location = New System.Drawing.Point(171, 565)
+        Me.gb30.Location = New System.Drawing.Point(171, 548)
         Me.gb30.Name = "gb30"
-        Me.gb30.Size = New System.Drawing.Size(160, 117)
+        Me.gb30.Size = New System.Drawing.Size(160, 114)
         Me.gb30.TabIndex = 36
         Me.gb30.TabStop = False
         Me.gb30.Text = " "
@@ -1407,9 +1407,9 @@ Partial Class StartForm
         Me.gb29.Controls.Add(Me.d29)
         Me.gb29.Controls.Add(Me.ah29)
         Me.gb29.Controls.Add(Me.oc29)
-        Me.gb29.Location = New System.Drawing.Point(4, 565)
+        Me.gb29.Location = New System.Drawing.Point(4, 548)
         Me.gb29.Name = "gb29"
-        Me.gb29.Size = New System.Drawing.Size(160, 117)
+        Me.gb29.Size = New System.Drawing.Size(160, 114)
         Me.gb29.TabIndex = 35
         Me.gb29.TabStop = False
         Me.gb29.Text = " "
@@ -1475,9 +1475,9 @@ Partial Class StartForm
         Me.gb28.Controls.Add(Me.d28)
         Me.gb28.Controls.Add(Me.ah28)
         Me.gb28.Controls.Add(Me.oc28)
-        Me.gb28.Location = New System.Drawing.Point(1004, 441)
+        Me.gb28.Location = New System.Drawing.Point(1004, 427)
         Me.gb28.Name = "gb28"
-        Me.gb28.Size = New System.Drawing.Size(161, 117)
+        Me.gb28.Size = New System.Drawing.Size(161, 114)
         Me.gb28.TabIndex = 34
         Me.gb28.TabStop = False
         Me.gb28.Text = " "
@@ -1543,9 +1543,9 @@ Partial Class StartForm
         Me.gb27.Controls.Add(Me.d27)
         Me.gb27.Controls.Add(Me.ah27)
         Me.gb27.Controls.Add(Me.oc27)
-        Me.gb27.Location = New System.Drawing.Point(837, 441)
+        Me.gb27.Location = New System.Drawing.Point(837, 427)
         Me.gb27.Name = "gb27"
-        Me.gb27.Size = New System.Drawing.Size(160, 117)
+        Me.gb27.Size = New System.Drawing.Size(160, 114)
         Me.gb27.TabIndex = 33
         Me.gb27.TabStop = False
         Me.gb27.Text = " "
@@ -1611,9 +1611,9 @@ Partial Class StartForm
         Me.gb26.Controls.Add(Me.d26)
         Me.gb26.Controls.Add(Me.ah26)
         Me.gb26.Controls.Add(Me.oc26)
-        Me.gb26.Location = New System.Drawing.Point(672, 441)
+        Me.gb26.Location = New System.Drawing.Point(672, 427)
         Me.gb26.Name = "gb26"
-        Me.gb26.Size = New System.Drawing.Size(158, 117)
+        Me.gb26.Size = New System.Drawing.Size(158, 114)
         Me.gb26.TabIndex = 32
         Me.gb26.TabStop = False
         Me.gb26.Text = " "
@@ -1679,9 +1679,9 @@ Partial Class StartForm
         Me.gb25.Controls.Add(Me.d25)
         Me.gb25.Controls.Add(Me.ah25)
         Me.gb25.Controls.Add(Me.oc25)
-        Me.gb25.Location = New System.Drawing.Point(505, 441)
+        Me.gb25.Location = New System.Drawing.Point(505, 427)
         Me.gb25.Name = "gb25"
-        Me.gb25.Size = New System.Drawing.Size(160, 117)
+        Me.gb25.Size = New System.Drawing.Size(160, 114)
         Me.gb25.TabIndex = 31
         Me.gb25.TabStop = False
         Me.gb25.Text = " "
@@ -1747,9 +1747,9 @@ Partial Class StartForm
         Me.gb24.Controls.Add(Me.d24)
         Me.gb24.Controls.Add(Me.ah24)
         Me.gb24.Controls.Add(Me.oc24)
-        Me.gb24.Location = New System.Drawing.Point(338, 441)
+        Me.gb24.Location = New System.Drawing.Point(338, 427)
         Me.gb24.Name = "gb24"
-        Me.gb24.Size = New System.Drawing.Size(160, 117)
+        Me.gb24.Size = New System.Drawing.Size(160, 114)
         Me.gb24.TabIndex = 30
         Me.gb24.TabStop = False
         Me.gb24.Text = " "
@@ -1815,9 +1815,9 @@ Partial Class StartForm
         Me.gb23.Controls.Add(Me.d23)
         Me.gb23.Controls.Add(Me.ah23)
         Me.gb23.Controls.Add(Me.oc23)
-        Me.gb23.Location = New System.Drawing.Point(171, 441)
+        Me.gb23.Location = New System.Drawing.Point(171, 427)
         Me.gb23.Name = "gb23"
-        Me.gb23.Size = New System.Drawing.Size(160, 117)
+        Me.gb23.Size = New System.Drawing.Size(160, 114)
         Me.gb23.TabIndex = 29
         Me.gb23.TabStop = False
         Me.gb23.Text = " "
@@ -1883,9 +1883,9 @@ Partial Class StartForm
         Me.gb22.Controls.Add(Me.d22)
         Me.gb22.Controls.Add(Me.ah22)
         Me.gb22.Controls.Add(Me.oc22)
-        Me.gb22.Location = New System.Drawing.Point(4, 441)
+        Me.gb22.Location = New System.Drawing.Point(4, 427)
         Me.gb22.Name = "gb22"
-        Me.gb22.Size = New System.Drawing.Size(160, 117)
+        Me.gb22.Size = New System.Drawing.Size(160, 114)
         Me.gb22.TabIndex = 28
         Me.gb22.TabStop = False
         Me.gb22.Text = " "
@@ -1951,9 +1951,9 @@ Partial Class StartForm
         Me.gb21.Controls.Add(Me.d21)
         Me.gb21.Controls.Add(Me.ah21)
         Me.gb21.Controls.Add(Me.oc21)
-        Me.gb21.Location = New System.Drawing.Point(1004, 317)
+        Me.gb21.Location = New System.Drawing.Point(1004, 306)
         Me.gb21.Name = "gb21"
-        Me.gb21.Size = New System.Drawing.Size(161, 117)
+        Me.gb21.Size = New System.Drawing.Size(161, 114)
         Me.gb21.TabIndex = 27
         Me.gb21.TabStop = False
         Me.gb21.Text = " "
@@ -2019,9 +2019,9 @@ Partial Class StartForm
         Me.gb20.Controls.Add(Me.d20)
         Me.gb20.Controls.Add(Me.ah20)
         Me.gb20.Controls.Add(Me.oc20)
-        Me.gb20.Location = New System.Drawing.Point(837, 317)
+        Me.gb20.Location = New System.Drawing.Point(837, 306)
         Me.gb20.Name = "gb20"
-        Me.gb20.Size = New System.Drawing.Size(160, 117)
+        Me.gb20.Size = New System.Drawing.Size(160, 114)
         Me.gb20.TabIndex = 26
         Me.gb20.TabStop = False
         Me.gb20.Text = " "
@@ -2087,9 +2087,9 @@ Partial Class StartForm
         Me.gb19.Controls.Add(Me.d19)
         Me.gb19.Controls.Add(Me.ah19)
         Me.gb19.Controls.Add(Me.oc19)
-        Me.gb19.Location = New System.Drawing.Point(672, 317)
+        Me.gb19.Location = New System.Drawing.Point(672, 306)
         Me.gb19.Name = "gb19"
-        Me.gb19.Size = New System.Drawing.Size(158, 117)
+        Me.gb19.Size = New System.Drawing.Size(158, 114)
         Me.gb19.TabIndex = 25
         Me.gb19.TabStop = False
         Me.gb19.Text = " "
@@ -2155,9 +2155,9 @@ Partial Class StartForm
         Me.gb18.Controls.Add(Me.d18)
         Me.gb18.Controls.Add(Me.ah18)
         Me.gb18.Controls.Add(Me.oc18)
-        Me.gb18.Location = New System.Drawing.Point(505, 317)
+        Me.gb18.Location = New System.Drawing.Point(505, 306)
         Me.gb18.Name = "gb18"
-        Me.gb18.Size = New System.Drawing.Size(160, 117)
+        Me.gb18.Size = New System.Drawing.Size(160, 114)
         Me.gb18.TabIndex = 24
         Me.gb18.TabStop = False
         Me.gb18.Text = " "
@@ -2223,9 +2223,9 @@ Partial Class StartForm
         Me.gb17.Controls.Add(Me.d17)
         Me.gb17.Controls.Add(Me.ah17)
         Me.gb17.Controls.Add(Me.oc17)
-        Me.gb17.Location = New System.Drawing.Point(338, 317)
+        Me.gb17.Location = New System.Drawing.Point(338, 306)
         Me.gb17.Name = "gb17"
-        Me.gb17.Size = New System.Drawing.Size(160, 117)
+        Me.gb17.Size = New System.Drawing.Size(160, 114)
         Me.gb17.TabIndex = 23
         Me.gb17.TabStop = False
         Me.gb17.Text = " "
@@ -2291,9 +2291,9 @@ Partial Class StartForm
         Me.gb16.Controls.Add(Me.d16)
         Me.gb16.Controls.Add(Me.ah16)
         Me.gb16.Controls.Add(Me.oc16)
-        Me.gb16.Location = New System.Drawing.Point(171, 317)
+        Me.gb16.Location = New System.Drawing.Point(171, 306)
         Me.gb16.Name = "gb16"
-        Me.gb16.Size = New System.Drawing.Size(160, 117)
+        Me.gb16.Size = New System.Drawing.Size(160, 114)
         Me.gb16.TabIndex = 22
         Me.gb16.TabStop = False
         Me.gb16.Text = " "
@@ -2359,9 +2359,9 @@ Partial Class StartForm
         Me.gb15.Controls.Add(Me.d15)
         Me.gb15.Controls.Add(Me.ah15)
         Me.gb15.Controls.Add(Me.oc15)
-        Me.gb15.Location = New System.Drawing.Point(4, 317)
+        Me.gb15.Location = New System.Drawing.Point(4, 306)
         Me.gb15.Name = "gb15"
-        Me.gb15.Size = New System.Drawing.Size(160, 117)
+        Me.gb15.Size = New System.Drawing.Size(160, 114)
         Me.gb15.TabIndex = 21
         Me.gb15.TabStop = False
         Me.gb15.Text = " "
@@ -2427,9 +2427,9 @@ Partial Class StartForm
         Me.gb14.Controls.Add(Me.d14)
         Me.gb14.Controls.Add(Me.ah14)
         Me.gb14.Controls.Add(Me.oc14)
-        Me.gb14.Location = New System.Drawing.Point(1004, 193)
+        Me.gb14.Location = New System.Drawing.Point(1004, 185)
         Me.gb14.Name = "gb14"
-        Me.gb14.Size = New System.Drawing.Size(161, 117)
+        Me.gb14.Size = New System.Drawing.Size(161, 114)
         Me.gb14.TabIndex = 20
         Me.gb14.TabStop = False
         Me.gb14.Text = " "
@@ -2495,9 +2495,9 @@ Partial Class StartForm
         Me.gb13.Controls.Add(Me.d13)
         Me.gb13.Controls.Add(Me.ah13)
         Me.gb13.Controls.Add(Me.oc13)
-        Me.gb13.Location = New System.Drawing.Point(837, 193)
+        Me.gb13.Location = New System.Drawing.Point(837, 185)
         Me.gb13.Name = "gb13"
-        Me.gb13.Size = New System.Drawing.Size(160, 117)
+        Me.gb13.Size = New System.Drawing.Size(160, 114)
         Me.gb13.TabIndex = 19
         Me.gb13.TabStop = False
         Me.gb13.Text = " "
@@ -2563,9 +2563,9 @@ Partial Class StartForm
         Me.gb12.Controls.Add(Me.d12)
         Me.gb12.Controls.Add(Me.ah12)
         Me.gb12.Controls.Add(Me.oc12)
-        Me.gb12.Location = New System.Drawing.Point(672, 193)
+        Me.gb12.Location = New System.Drawing.Point(672, 185)
         Me.gb12.Name = "gb12"
-        Me.gb12.Size = New System.Drawing.Size(158, 117)
+        Me.gb12.Size = New System.Drawing.Size(158, 114)
         Me.gb12.TabIndex = 18
         Me.gb12.TabStop = False
         Me.gb12.Text = " "
@@ -2631,9 +2631,9 @@ Partial Class StartForm
         Me.gb11.Controls.Add(Me.d11)
         Me.gb11.Controls.Add(Me.ah11)
         Me.gb11.Controls.Add(Me.oc11)
-        Me.gb11.Location = New System.Drawing.Point(505, 193)
+        Me.gb11.Location = New System.Drawing.Point(505, 185)
         Me.gb11.Name = "gb11"
-        Me.gb11.Size = New System.Drawing.Size(160, 117)
+        Me.gb11.Size = New System.Drawing.Size(160, 114)
         Me.gb11.TabIndex = 17
         Me.gb11.TabStop = False
         Me.gb11.Text = " "
@@ -2699,9 +2699,9 @@ Partial Class StartForm
         Me.gb10.Controls.Add(Me.d10)
         Me.gb10.Controls.Add(Me.ah10)
         Me.gb10.Controls.Add(Me.oc10)
-        Me.gb10.Location = New System.Drawing.Point(338, 193)
+        Me.gb10.Location = New System.Drawing.Point(338, 185)
         Me.gb10.Name = "gb10"
-        Me.gb10.Size = New System.Drawing.Size(160, 117)
+        Me.gb10.Size = New System.Drawing.Size(160, 114)
         Me.gb10.TabIndex = 16
         Me.gb10.TabStop = False
         Me.gb10.Text = " "
@@ -2767,9 +2767,9 @@ Partial Class StartForm
         Me.gb9.Controls.Add(Me.d9)
         Me.gb9.Controls.Add(Me.ah9)
         Me.gb9.Controls.Add(Me.oc9)
-        Me.gb9.Location = New System.Drawing.Point(171, 193)
+        Me.gb9.Location = New System.Drawing.Point(171, 185)
         Me.gb9.Name = "gb9"
-        Me.gb9.Size = New System.Drawing.Size(160, 117)
+        Me.gb9.Size = New System.Drawing.Size(160, 114)
         Me.gb9.TabIndex = 15
         Me.gb9.TabStop = False
         Me.gb9.Text = " "
@@ -2835,9 +2835,9 @@ Partial Class StartForm
         Me.gb8.Controls.Add(Me.d8)
         Me.gb8.Controls.Add(Me.ah8)
         Me.gb8.Controls.Add(Me.oc8)
-        Me.gb8.Location = New System.Drawing.Point(4, 193)
+        Me.gb8.Location = New System.Drawing.Point(4, 185)
         Me.gb8.Name = "gb8"
-        Me.gb8.Size = New System.Drawing.Size(160, 117)
+        Me.gb8.Size = New System.Drawing.Size(160, 114)
         Me.gb8.TabIndex = 14
         Me.gb8.TabStop = False
         Me.gb8.Text = " "
@@ -2903,9 +2903,9 @@ Partial Class StartForm
         Me.gb7.Controls.Add(Me.d7)
         Me.gb7.Controls.Add(Me.ah7)
         Me.gb7.Controls.Add(Me.oc7)
-        Me.gb7.Location = New System.Drawing.Point(1004, 69)
+        Me.gb7.Location = New System.Drawing.Point(1004, 59)
         Me.gb7.Name = "gb7"
-        Me.gb7.Size = New System.Drawing.Size(161, 117)
+        Me.gb7.Size = New System.Drawing.Size(161, 119)
         Me.gb7.TabIndex = 13
         Me.gb7.TabStop = False
         Me.gb7.Text = " "
@@ -2971,9 +2971,9 @@ Partial Class StartForm
         Me.gb6.Controls.Add(Me.d6)
         Me.gb6.Controls.Add(Me.ah6)
         Me.gb6.Controls.Add(Me.oc6)
-        Me.gb6.Location = New System.Drawing.Point(837, 69)
+        Me.gb6.Location = New System.Drawing.Point(837, 59)
         Me.gb6.Name = "gb6"
-        Me.gb6.Size = New System.Drawing.Size(160, 117)
+        Me.gb6.Size = New System.Drawing.Size(160, 119)
         Me.gb6.TabIndex = 12
         Me.gb6.TabStop = False
         Me.gb6.Text = " "
@@ -3024,7 +3024,7 @@ Partial Class StartForm
         '
         Me.oc6.BackColor = System.Drawing.Color.Teal
         Me.oc6.FormattingEnabled = True
-        Me.oc6.Location = New System.Drawing.Point(33, 41)
+        Me.oc6.Location = New System.Drawing.Point(33, 39)
         Me.oc6.Name = "oc6"
         Me.oc6.Size = New System.Drawing.Size(121, 24)
         Me.oc6.TabIndex = 3
@@ -3039,9 +3039,9 @@ Partial Class StartForm
         Me.gb5.Controls.Add(Me.d5)
         Me.gb5.Controls.Add(Me.ah5)
         Me.gb5.Controls.Add(Me.oc5)
-        Me.gb5.Location = New System.Drawing.Point(672, 69)
+        Me.gb5.Location = New System.Drawing.Point(672, 59)
         Me.gb5.Name = "gb5"
-        Me.gb5.Size = New System.Drawing.Size(158, 117)
+        Me.gb5.Size = New System.Drawing.Size(158, 119)
         Me.gb5.TabIndex = 11
         Me.gb5.TabStop = False
         Me.gb5.Text = " "
@@ -3107,9 +3107,9 @@ Partial Class StartForm
         Me.gb4.Controls.Add(Me.d4)
         Me.gb4.Controls.Add(Me.ah4)
         Me.gb4.Controls.Add(Me.oc4)
-        Me.gb4.Location = New System.Drawing.Point(505, 69)
+        Me.gb4.Location = New System.Drawing.Point(505, 59)
         Me.gb4.Name = "gb4"
-        Me.gb4.Size = New System.Drawing.Size(160, 117)
+        Me.gb4.Size = New System.Drawing.Size(160, 119)
         Me.gb4.TabIndex = 10
         Me.gb4.TabStop = False
         Me.gb4.Text = " "
@@ -3175,9 +3175,9 @@ Partial Class StartForm
         Me.gb3.Controls.Add(Me.d3)
         Me.gb3.Controls.Add(Me.ah3)
         Me.gb3.Controls.Add(Me.oc3)
-        Me.gb3.Location = New System.Drawing.Point(338, 69)
+        Me.gb3.Location = New System.Drawing.Point(338, 59)
         Me.gb3.Name = "gb3"
-        Me.gb3.Size = New System.Drawing.Size(160, 117)
+        Me.gb3.Size = New System.Drawing.Size(160, 119)
         Me.gb3.TabIndex = 9
         Me.gb3.TabStop = False
         Me.gb3.Text = " "
@@ -3243,9 +3243,9 @@ Partial Class StartForm
         Me.gb2.Controls.Add(Me.d2)
         Me.gb2.Controls.Add(Me.ah2)
         Me.gb2.Controls.Add(Me.oc2)
-        Me.gb2.Location = New System.Drawing.Point(171, 69)
+        Me.gb2.Location = New System.Drawing.Point(171, 59)
         Me.gb2.Name = "gb2"
-        Me.gb2.Size = New System.Drawing.Size(160, 117)
+        Me.gb2.Size = New System.Drawing.Size(160, 119)
         Me.gb2.TabIndex = 8
         Me.gb2.TabStop = False
         Me.gb2.Text = " "
@@ -3402,9 +3402,9 @@ Partial Class StartForm
         Me.gb1.Controls.Add(Me.d1)
         Me.gb1.Controls.Add(Me.ah1)
         Me.gb1.Controls.Add(Me.oc1)
-        Me.gb1.Location = New System.Drawing.Point(4, 69)
+        Me.gb1.Location = New System.Drawing.Point(4, 59)
         Me.gb1.Name = "gb1"
-        Me.gb1.Size = New System.Drawing.Size(160, 117)
+        Me.gb1.Size = New System.Drawing.Size(160, 119)
         Me.gb1.TabIndex = 7
         Me.gb1.TabStop = False
         Me.gb1.Text = " "
@@ -3464,16 +3464,16 @@ Partial Class StartForm
         '
         Me.monthLabel.AutoSize = True
         Me.monthLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.monthLabel.Location = New System.Drawing.Point(487, 31)
+        Me.monthLabel.Location = New System.Drawing.Point(511, 31)
         Me.monthLabel.Name = "monthLabel"
-        Me.monthLabel.Size = New System.Drawing.Size(216, 32)
+        Me.monthLabel.Size = New System.Drawing.Size(161, 32)
         Me.monthLabel.TabIndex = 2
-        Me.monthLabel.Text = "Month and Year"
+        Me.monthLabel.Text = "Month Year"
         '
         'saveChangesButton
         '
         Me.saveChangesButton.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.saveChangesButton.Location = New System.Drawing.Point(356, 888)
+        Me.saveChangesButton.Location = New System.Drawing.Point(356, 860)
         Me.saveChangesButton.Name = "saveChangesButton"
         Me.saveChangesButton.Size = New System.Drawing.Size(492, 55)
         Me.saveChangesButton.TabIndex = 3
@@ -3489,7 +3489,7 @@ Partial Class StartForm
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoScroll = True
-        Me.ClientSize = New System.Drawing.Size(1192, 964)
+        Me.ClientSize = New System.Drawing.Size(1212, 933)
         Me.Controls.Add(Me.saveChangesButton)
         Me.Controls.Add(Me.monthLabel)
         Me.Controls.Add(Me.TableLayoutPanel1)
