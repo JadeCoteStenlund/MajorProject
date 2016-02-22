@@ -9,3 +9,7 @@ c:\users\robyndias\documents\visual studio 2013\Projects\MajorProjectFormMockUp\
 c:\users\robyndias\documents\visual studio 2013\Projects\MajorProjectFormMockUp\MajorProjectFormMockUp\obj\Debug\MajorProjectFormMockUp.pdb
 c:\users\robyndias\documents\visual studio 2013\Projects\MajorProjectFormMockUp\MajorProjectFormMockUp\obj\Debug\MajorProjectFormMockUp.InputForm.resources
 C:\Users\RobynDias\Documents\Visual Studio 2013\Projects\MajorProjectFormMockUp\MajorProjectFormMockUp\obj\Debug\MajorProjectFormMockUp.vbprojResolveAssemblyReference.cache
+C:\Users\RobynDias\Desktop\Repo\MajorProject\Robyn's - Date Range Picker--Main Form\MajorProjectFormMockUp\MajorProjectFormMockUp\bin\Debug\MajorProjectFormMockUp.exe.config
+C:\Users\RobynDias\Desktop\Repo\MajorProject\Robyn's - Date Range Picker--Main Form\MajorProjectFormMockUp\MajorProjectFormMockUp\obj\Debug\MajorProjectFormMockUp.exe
+C:\Users\RobynDias\Desktop\Repo\MajorProject\Robyn's - Date Range Picker--Main Form\MajorProjectFormMockUp\MajorProjectFormMockUp\obj\Debug\MajorProjectFormMockUp.xml
+C:\Users\RobynDias\Desktop\Repo\MajorProject\Robyn's - Date Range Picker--Main Form\MajorProjectFormMockUp\MajorProjectFormMockUp\obj\Debug\MajorProjectFormMockUp.pdb

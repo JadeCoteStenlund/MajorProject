@@ -38,166 +38,248 @@ Partial Class StartForm
         Me.AllDaysEmployeesWorkedToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.TableLayoutPanel1 = New System.Windows.Forms.TableLayoutPanel()
         Me.gb42 = New System.Windows.Forms.GroupBox()
+        Me.Label84 = New System.Windows.Forms.Label()
+        Me.Label42 = New System.Windows.Forms.Label()
         Me.d42 = New System.Windows.Forms.Label()
         Me.ah42 = New System.Windows.Forms.ComboBox()
         Me.oc42 = New System.Windows.Forms.ComboBox()
         Me.gb41 = New System.Windows.Forms.GroupBox()
+        Me.Label83 = New System.Windows.Forms.Label()
+        Me.Label41 = New System.Windows.Forms.Label()
         Me.d41 = New System.Windows.Forms.Label()
         Me.ah41 = New System.Windows.Forms.ComboBox()
         Me.oc41 = New System.Windows.Forms.ComboBox()
         Me.gb40 = New System.Windows.Forms.GroupBox()
+        Me.Label82 = New System.Windows.Forms.Label()
+        Me.Label40 = New System.Windows.Forms.Label()
         Me.d40 = New System.Windows.Forms.Label()
         Me.ah40 = New System.Windows.Forms.ComboBox()
         Me.oc40 = New System.Windows.Forms.ComboBox()
         Me.gb39 = New System.Windows.Forms.GroupBox()
+        Me.Label81 = New System.Windows.Forms.Label()
+        Me.Label39 = New System.Windows.Forms.Label()
         Me.d39 = New System.Windows.Forms.Label()
         Me.ah39 = New System.Windows.Forms.ComboBox()
         Me.oc39 = New System.Windows.Forms.ComboBox()
         Me.gb38 = New System.Windows.Forms.GroupBox()
+        Me.Label80 = New System.Windows.Forms.Label()
+        Me.Label38 = New System.Windows.Forms.Label()
         Me.d38 = New System.Windows.Forms.Label()
         Me.ah38 = New System.Windows.Forms.ComboBox()
         Me.oc38 = New System.Windows.Forms.ComboBox()
         Me.gb37 = New System.Windows.Forms.GroupBox()
+        Me.Label79 = New System.Windows.Forms.Label()
+        Me.Label37 = New System.Windows.Forms.Label()
         Me.d37 = New System.Windows.Forms.Label()
         Me.ah37 = New System.Windows.Forms.ComboBox()
         Me.oc37 = New System.Windows.Forms.ComboBox()
         Me.gb36 = New System.Windows.Forms.GroupBox()
+        Me.Label78 = New System.Windows.Forms.Label()
+        Me.Label36 = New System.Windows.Forms.Label()
         Me.d36 = New System.Windows.Forms.Label()
         Me.ah36 = New System.Windows.Forms.ComboBox()
         Me.oc36 = New System.Windows.Forms.ComboBox()
         Me.gb35 = New System.Windows.Forms.GroupBox()
+        Me.Label77 = New System.Windows.Forms.Label()
+        Me.Label35 = New System.Windows.Forms.Label()
         Me.d35 = New System.Windows.Forms.Label()
         Me.ah35 = New System.Windows.Forms.ComboBox()
         Me.oc35 = New System.Windows.Forms.ComboBox()
         Me.gb34 = New System.Windows.Forms.GroupBox()
+        Me.Label76 = New System.Windows.Forms.Label()
+        Me.Label34 = New System.Windows.Forms.Label()
         Me.d34 = New System.Windows.Forms.Label()
         Me.ah34 = New System.Windows.Forms.ComboBox()
         Me.oc34 = New System.Windows.Forms.ComboBox()
         Me.gb33 = New System.Windows.Forms.GroupBox()
+        Me.Label75 = New System.Windows.Forms.Label()
+        Me.Label33 = New System.Windows.Forms.Label()
         Me.d33 = New System.Windows.Forms.Label()
         Me.ah33 = New System.Windows.Forms.ComboBox()
         Me.oc33 = New System.Windows.Forms.ComboBox()
         Me.gb32 = New System.Windows.Forms.GroupBox()
+        Me.Label74 = New System.Windows.Forms.Label()
+        Me.Label32 = New System.Windows.Forms.Label()
         Me.d32 = New System.Windows.Forms.Label()
         Me.ah32 = New System.Windows.Forms.ComboBox()
         Me.oc32 = New System.Windows.Forms.ComboBox()
         Me.gb31 = New System.Windows.Forms.GroupBox()
+        Me.Label73 = New System.Windows.Forms.Label()
+        Me.Label31 = New System.Windows.Forms.Label()
         Me.d31 = New System.Windows.Forms.Label()
         Me.ah31 = New System.Windows.Forms.ComboBox()
         Me.oc31 = New System.Windows.Forms.ComboBox()
         Me.gb30 = New System.Windows.Forms.GroupBox()
+        Me.Label72 = New System.Windows.Forms.Label()
+        Me.Label30 = New System.Windows.Forms.Label()
         Me.d30 = New System.Windows.Forms.Label()
         Me.ah30 = New System.Windows.Forms.ComboBox()
         Me.oc30 = New System.Windows.Forms.ComboBox()
         Me.gb29 = New System.Windows.Forms.GroupBox()
+        Me.Label71 = New System.Windows.Forms.Label()
+        Me.Label29 = New System.Windows.Forms.Label()
         Me.d29 = New System.Windows.Forms.Label()
         Me.ah29 = New System.Windows.Forms.ComboBox()
         Me.oc29 = New System.Windows.Forms.ComboBox()
         Me.gb28 = New System.Windows.Forms.GroupBox()
+        Me.Label70 = New System.Windows.Forms.Label()
+        Me.Label28 = New System.Windows.Forms.Label()
         Me.d28 = New System.Windows.Forms.Label()
         Me.ah28 = New System.Windows.Forms.ComboBox()
         Me.oc28 = New System.Windows.Forms.ComboBox()
         Me.gb27 = New System.Windows.Forms.GroupBox()
+        Me.Label69 = New System.Windows.Forms.Label()
+        Me.Label27 = New System.Windows.Forms.Label()
         Me.d27 = New System.Windows.Forms.Label()
         Me.ah27 = New System.Windows.Forms.ComboBox()
         Me.oc27 = New System.Windows.Forms.ComboBox()
         Me.gb26 = New System.Windows.Forms.GroupBox()
+        Me.Label68 = New System.Windows.Forms.Label()
+        Me.Label26 = New System.Windows.Forms.Label()
         Me.d26 = New System.Windows.Forms.Label()
         Me.ah26 = New System.Windows.Forms.ComboBox()
         Me.oc26 = New System.Windows.Forms.ComboBox()
         Me.gb25 = New System.Windows.Forms.GroupBox()
+        Me.Label67 = New System.Windows.Forms.Label()
+        Me.Label25 = New System.Windows.Forms.Label()
         Me.d25 = New System.Windows.Forms.Label()
         Me.ah25 = New System.Windows.Forms.ComboBox()
         Me.oc25 = New System.Windows.Forms.ComboBox()
         Me.gb24 = New System.Windows.Forms.GroupBox()
+        Me.Label66 = New System.Windows.Forms.Label()
+        Me.Label24 = New System.Windows.Forms.Label()
         Me.d24 = New System.Windows.Forms.Label()
         Me.ah24 = New System.Windows.Forms.ComboBox()
         Me.oc24 = New System.Windows.Forms.ComboBox()
         Me.gb23 = New System.Windows.Forms.GroupBox()
+        Me.Label65 = New System.Windows.Forms.Label()
+        Me.Label23 = New System.Windows.Forms.Label()
         Me.d23 = New System.Windows.Forms.Label()
         Me.ah23 = New System.Windows.Forms.ComboBox()
         Me.oc23 = New System.Windows.Forms.ComboBox()
         Me.gb22 = New System.Windows.Forms.GroupBox()
+        Me.Label64 = New System.Windows.Forms.Label()
+        Me.Label22 = New System.Windows.Forms.Label()
         Me.d22 = New System.Windows.Forms.Label()
         Me.ah22 = New System.Windows.Forms.ComboBox()
         Me.oc22 = New System.Windows.Forms.ComboBox()
         Me.gb21 = New System.Windows.Forms.GroupBox()
+        Me.Label63 = New System.Windows.Forms.Label()
+        Me.Label21 = New System.Windows.Forms.Label()
         Me.d21 = New System.Windows.Forms.Label()
         Me.ah21 = New System.Windows.Forms.ComboBox()
         Me.oc21 = New System.Windows.Forms.ComboBox()
         Me.gb20 = New System.Windows.Forms.GroupBox()
+        Me.Label62 = New System.Windows.Forms.Label()
+        Me.Label20 = New System.Windows.Forms.Label()
         Me.d20 = New System.Windows.Forms.Label()
         Me.ah20 = New System.Windows.Forms.ComboBox()
         Me.oc20 = New System.Windows.Forms.ComboBox()
         Me.gb19 = New System.Windows.Forms.GroupBox()
+        Me.Label61 = New System.Windows.Forms.Label()
+        Me.Label19 = New System.Windows.Forms.Label()
         Me.d19 = New System.Windows.Forms.Label()
         Me.ah19 = New System.Windows.Forms.ComboBox()
         Me.oc19 = New System.Windows.Forms.ComboBox()
         Me.gb18 = New System.Windows.Forms.GroupBox()
+        Me.Label60 = New System.Windows.Forms.Label()
+        Me.Label18 = New System.Windows.Forms.Label()
         Me.d18 = New System.Windows.Forms.Label()
         Me.ah18 = New System.Windows.Forms.ComboBox()
         Me.oc18 = New System.Windows.Forms.ComboBox()
         Me.gb17 = New System.Windows.Forms.GroupBox()
+        Me.Label59 = New System.Windows.Forms.Label()
+        Me.Label17 = New System.Windows.Forms.Label()
         Me.d17 = New System.Windows.Forms.Label()
         Me.ah17 = New System.Windows.Forms.ComboBox()
         Me.oc17 = New System.Windows.Forms.ComboBox()
         Me.gb16 = New System.Windows.Forms.GroupBox()
+        Me.Label58 = New System.Windows.Forms.Label()
+        Me.Label16 = New System.Windows.Forms.Label()
         Me.d16 = New System.Windows.Forms.Label()
         Me.ah16 = New System.Windows.Forms.ComboBox()
         Me.oc16 = New System.Windows.Forms.ComboBox()
         Me.gb15 = New System.Windows.Forms.GroupBox()
+        Me.Label57 = New System.Windows.Forms.Label()
+        Me.Label15 = New System.Windows.Forms.Label()
         Me.d15 = New System.Windows.Forms.Label()
         Me.ah15 = New System.Windows.Forms.ComboBox()
         Me.oc15 = New System.Windows.Forms.ComboBox()
         Me.gb14 = New System.Windows.Forms.GroupBox()
+        Me.Label56 = New System.Windows.Forms.Label()
+        Me.Label14 = New System.Windows.Forms.Label()
         Me.d14 = New System.Windows.Forms.Label()
         Me.ah14 = New System.Windows.Forms.ComboBox()
         Me.oc14 = New System.Windows.Forms.ComboBox()
         Me.gb13 = New System.Windows.Forms.GroupBox()
+        Me.Label55 = New System.Windows.Forms.Label()
+        Me.Label13 = New System.Windows.Forms.Label()
         Me.d13 = New System.Windows.Forms.Label()
         Me.ah13 = New System.Windows.Forms.ComboBox()
         Me.oc13 = New System.Windows.Forms.ComboBox()
         Me.gb12 = New System.Windows.Forms.GroupBox()
+        Me.Label54 = New System.Windows.Forms.Label()
+        Me.Label12 = New System.Windows.Forms.Label()
         Me.d12 = New System.Windows.Forms.Label()
         Me.ah12 = New System.Windows.Forms.ComboBox()
         Me.oc12 = New System.Windows.Forms.ComboBox()
         Me.gb11 = New System.Windows.Forms.GroupBox()
+        Me.Label53 = New System.Windows.Forms.Label()
+        Me.Label11 = New System.Windows.Forms.Label()
         Me.d11 = New System.Windows.Forms.Label()
         Me.ah11 = New System.Windows.Forms.ComboBox()
         Me.oc11 = New System.Windows.Forms.ComboBox()
         Me.gb10 = New System.Windows.Forms.GroupBox()
+        Me.Label52 = New System.Windows.Forms.Label()
+        Me.Label10 = New System.Windows.Forms.Label()
         Me.d10 = New System.Windows.Forms.Label()
         Me.ah10 = New System.Windows.Forms.ComboBox()
         Me.oc10 = New System.Windows.Forms.ComboBox()
         Me.gb9 = New System.Windows.Forms.GroupBox()
+        Me.Label51 = New System.Windows.Forms.Label()
+        Me.Label9 = New System.Windows.Forms.Label()
         Me.d9 = New System.Windows.Forms.Label()
         Me.ah9 = New System.Windows.Forms.ComboBox()
         Me.oc9 = New System.Windows.Forms.ComboBox()
         Me.gb8 = New System.Windows.Forms.GroupBox()
+        Me.Label50 = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
         Me.d8 = New System.Windows.Forms.Label()
         Me.ah8 = New System.Windows.Forms.ComboBox()
         Me.oc8 = New System.Windows.Forms.ComboBox()
         Me.gb7 = New System.Windows.Forms.GroupBox()
+        Me.Label49 = New System.Windows.Forms.Label()
+        Me.Label7 = New System.Windows.Forms.Label()
         Me.d7 = New System.Windows.Forms.Label()
         Me.ah7 = New System.Windows.Forms.ComboBox()
         Me.oc7 = New System.Windows.Forms.ComboBox()
         Me.gb6 = New System.Windows.Forms.GroupBox()
+        Me.Label48 = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
         Me.d6 = New System.Windows.Forms.Label()
         Me.ah6 = New System.Windows.Forms.ComboBox()
         Me.oc6 = New System.Windows.Forms.ComboBox()
         Me.gb5 = New System.Windows.Forms.GroupBox()
+        Me.Label47 = New System.Windows.Forms.Label()
+        Me.Label5 = New System.Windows.Forms.Label()
         Me.d5 = New System.Windows.Forms.Label()
         Me.ah5 = New System.Windows.Forms.ComboBox()
         Me.oc5 = New System.Windows.Forms.ComboBox()
         Me.gb4 = New System.Windows.Forms.GroupBox()
+        Me.Label46 = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
         Me.d4 = New System.Windows.Forms.Label()
         Me.ah4 = New System.Windows.Forms.ComboBox()
         Me.oc4 = New System.Windows.Forms.ComboBox()
         Me.gb3 = New System.Windows.Forms.GroupBox()
+        Me.Label45 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
         Me.d3 = New System.Windows.Forms.Label()
         Me.ah3 = New System.Windows.Forms.ComboBox()
         Me.oc3 = New System.Windows.Forms.ComboBox()
         Me.gb2 = New System.Windows.Forms.GroupBox()
+        Me.Label44 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
         Me.d2 = New System.Windows.Forms.Label()
         Me.ah2 = New System.Windows.Forms.ComboBox()
         Me.oc2 = New System.Windows.Forms.ComboBox()
@@ -209,95 +291,15 @@ Partial Class StartForm
         Me.sunLabel = New System.Windows.Forms.Label()
         Me.monLabel = New System.Windows.Forms.Label()
         Me.gb1 = New System.Windows.Forms.GroupBox()
+        Me.Label43 = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.d1 = New System.Windows.Forms.Label()
         Me.ah1 = New System.Windows.Forms.ComboBox()
         Me.oc1 = New System.Windows.Forms.ComboBox()
         Me.monthLabel = New System.Windows.Forms.Label()
         Me.saveChangesButton = New System.Windows.Forms.Button()
-        Me.Label1 = New System.Windows.Forms.Label()
-        Me.Label2 = New System.Windows.Forms.Label()
-        Me.Label3 = New System.Windows.Forms.Label()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.Label5 = New System.Windows.Forms.Label()
-        Me.Label6 = New System.Windows.Forms.Label()
-        Me.Label7 = New System.Windows.Forms.Label()
-        Me.Label8 = New System.Windows.Forms.Label()
-        Me.Label9 = New System.Windows.Forms.Label()
-        Me.Label10 = New System.Windows.Forms.Label()
-        Me.Label11 = New System.Windows.Forms.Label()
-        Me.Label12 = New System.Windows.Forms.Label()
-        Me.Label13 = New System.Windows.Forms.Label()
-        Me.Label14 = New System.Windows.Forms.Label()
-        Me.Label15 = New System.Windows.Forms.Label()
-        Me.Label16 = New System.Windows.Forms.Label()
-        Me.Label17 = New System.Windows.Forms.Label()
-        Me.Label18 = New System.Windows.Forms.Label()
-        Me.Label19 = New System.Windows.Forms.Label()
-        Me.Label20 = New System.Windows.Forms.Label()
-        Me.Label21 = New System.Windows.Forms.Label()
-        Me.Label22 = New System.Windows.Forms.Label()
-        Me.Label23 = New System.Windows.Forms.Label()
-        Me.Label24 = New System.Windows.Forms.Label()
-        Me.Label25 = New System.Windows.Forms.Label()
-        Me.Label26 = New System.Windows.Forms.Label()
-        Me.Label27 = New System.Windows.Forms.Label()
-        Me.Label28 = New System.Windows.Forms.Label()
-        Me.Label29 = New System.Windows.Forms.Label()
-        Me.Label30 = New System.Windows.Forms.Label()
-        Me.Label31 = New System.Windows.Forms.Label()
-        Me.Label32 = New System.Windows.Forms.Label()
-        Me.Label33 = New System.Windows.Forms.Label()
-        Me.Label34 = New System.Windows.Forms.Label()
-        Me.Label35 = New System.Windows.Forms.Label()
-        Me.Label36 = New System.Windows.Forms.Label()
-        Me.Label37 = New System.Windows.Forms.Label()
-        Me.Label38 = New System.Windows.Forms.Label()
-        Me.Label39 = New System.Windows.Forms.Label()
-        Me.Label40 = New System.Windows.Forms.Label()
-        Me.Label41 = New System.Windows.Forms.Label()
-        Me.Label42 = New System.Windows.Forms.Label()
-        Me.Label43 = New System.Windows.Forms.Label()
-        Me.Label44 = New System.Windows.Forms.Label()
-        Me.Label45 = New System.Windows.Forms.Label()
-        Me.Label46 = New System.Windows.Forms.Label()
-        Me.Label47 = New System.Windows.Forms.Label()
-        Me.Label48 = New System.Windows.Forms.Label()
-        Me.Label49 = New System.Windows.Forms.Label()
-        Me.Label50 = New System.Windows.Forms.Label()
-        Me.Label51 = New System.Windows.Forms.Label()
-        Me.Label52 = New System.Windows.Forms.Label()
-        Me.Label53 = New System.Windows.Forms.Label()
-        Me.Label54 = New System.Windows.Forms.Label()
-        Me.Label55 = New System.Windows.Forms.Label()
-        Me.Label56 = New System.Windows.Forms.Label()
-        Me.Label57 = New System.Windows.Forms.Label()
-        Me.Label58 = New System.Windows.Forms.Label()
-        Me.Label59 = New System.Windows.Forms.Label()
-        Me.Label60 = New System.Windows.Forms.Label()
-        Me.Label61 = New System.Windows.Forms.Label()
-        Me.Label62 = New System.Windows.Forms.Label()
-        Me.Label63 = New System.Windows.Forms.Label()
-        Me.Label64 = New System.Windows.Forms.Label()
-        Me.Label65 = New System.Windows.Forms.Label()
-        Me.Label66 = New System.Windows.Forms.Label()
-        Me.Label67 = New System.Windows.Forms.Label()
-        Me.Label68 = New System.Windows.Forms.Label()
-        Me.Label69 = New System.Windows.Forms.Label()
-        Me.Label70 = New System.Windows.Forms.Label()
-        Me.Label71 = New System.Windows.Forms.Label()
-        Me.Label72 = New System.Windows.Forms.Label()
-        Me.Label73 = New System.Windows.Forms.Label()
-        Me.Label74 = New System.Windows.Forms.Label()
-        Me.Label75 = New System.Windows.Forms.Label()
-        Me.Label76 = New System.Windows.Forms.Label()
-        Me.Label77 = New System.Windows.Forms.Label()
-        Me.Label78 = New System.Windows.Forms.Label()
-        Me.Label79 = New System.Windows.Forms.Label()
-        Me.Label80 = New System.Windows.Forms.Label()
-        Me.Label81 = New System.Windows.Forms.Label()
-        Me.Label82 = New System.Windows.Forms.Label()
-        Me.Label83 = New System.Windows.Forms.Label()
-        Me.Label84 = New System.Windows.Forms.Label()
+        Me.PrintDialog1 = New System.Windows.Forms.PrintDialog()
+        Me.PrintDocument1 = New System.Drawing.Printing.PrintDocument()
         Me.MenuStrip1.SuspendLayout()
         Me.TableLayoutPanel1.SuspendLayout()
         Me.gb42.SuspendLayout()
@@ -439,9 +441,6 @@ Partial Class StartForm
         '
         'TableLayoutPanel1
         '
-        Me.TableLayoutPanel1.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-            Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.TableLayoutPanel1.BackColor = System.Drawing.Color.DarkSlateGray
         Me.TableLayoutPanel1.CellBorderStyle = System.Windows.Forms.TableLayoutPanelCellBorderStyle.[Single]
         Me.TableLayoutPanel1.ColumnCount = 7
@@ -501,7 +500,7 @@ Partial Class StartForm
         Me.TableLayoutPanel1.Controls.Add(Me.sunLabel, 0, 0)
         Me.TableLayoutPanel1.Controls.Add(Me.monLabel, 1, 0)
         Me.TableLayoutPanel1.Controls.Add(Me.gb1, 0, 1)
-        Me.TableLayoutPanel1.Location = New System.Drawing.Point(11, 86)
+        Me.TableLayoutPanel1.Location = New System.Drawing.Point(12, 66)
         Me.TableLayoutPanel1.Name = "TableLayoutPanel1"
         Me.TableLayoutPanel1.RowCount = 7
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 7.952867!))
@@ -511,7 +510,7 @@ Partial Class StartForm
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.34119!))
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.34119!))
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 15.34119!))
-        Me.TableLayoutPanel1.Size = New System.Drawing.Size(1169, 835)
+        Me.TableLayoutPanel1.Size = New System.Drawing.Size(1169, 816)
         Me.TableLayoutPanel1.TabIndex = 1
         '
         'gb42
@@ -524,12 +523,34 @@ Partial Class StartForm
         Me.gb42.Controls.Add(Me.d42)
         Me.gb42.Controls.Add(Me.ah42)
         Me.gb42.Controls.Add(Me.oc42)
-        Me.gb42.Location = New System.Drawing.Point(1004, 705)
+        Me.gb42.Location = New System.Drawing.Point(1004, 689)
         Me.gb42.Name = "gb42"
-        Me.gb42.Size = New System.Drawing.Size(161, 126)
+        Me.gb42.Size = New System.Drawing.Size(161, 123)
         Me.gb42.TabIndex = 48
         Me.gb42.TabStop = False
         Me.gb42.Text = " "
+        '
+        'Label84
+        '
+        Me.Label84.AutoSize = True
+        Me.Label84.BackColor = System.Drawing.Color.Transparent
+        Me.Label84.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label84.Location = New System.Drawing.Point(3, 86)
+        Me.Label84.Name = "Label84"
+        Me.Label84.Size = New System.Drawing.Size(27, 17)
+        Me.Label84.TabIndex = 9
+        Me.Label84.Text = "AH"
+        '
+        'Label42
+        '
+        Me.Label42.AutoSize = True
+        Me.Label42.BackColor = System.Drawing.Color.Transparent
+        Me.Label42.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label42.Location = New System.Drawing.Point(2, 45)
+        Me.Label42.Name = "Label42"
+        Me.Label42.Size = New System.Drawing.Size(28, 17)
+        Me.Label42.TabIndex = 8
+        Me.Label42.Text = "OC"
         '
         'd42
         '
@@ -570,12 +591,34 @@ Partial Class StartForm
         Me.gb41.Controls.Add(Me.d41)
         Me.gb41.Controls.Add(Me.ah41)
         Me.gb41.Controls.Add(Me.oc41)
-        Me.gb41.Location = New System.Drawing.Point(837, 705)
+        Me.gb41.Location = New System.Drawing.Point(837, 689)
         Me.gb41.Name = "gb41"
-        Me.gb41.Size = New System.Drawing.Size(160, 126)
+        Me.gb41.Size = New System.Drawing.Size(160, 123)
         Me.gb41.TabIndex = 47
         Me.gb41.TabStop = False
         Me.gb41.Text = " "
+        '
+        'Label83
+        '
+        Me.Label83.AutoSize = True
+        Me.Label83.BackColor = System.Drawing.Color.Transparent
+        Me.Label83.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label83.Location = New System.Drawing.Point(3, 86)
+        Me.Label83.Name = "Label83"
+        Me.Label83.Size = New System.Drawing.Size(27, 17)
+        Me.Label83.TabIndex = 9
+        Me.Label83.Text = "AH"
+        '
+        'Label41
+        '
+        Me.Label41.AutoSize = True
+        Me.Label41.BackColor = System.Drawing.Color.Transparent
+        Me.Label41.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label41.Location = New System.Drawing.Point(2, 45)
+        Me.Label41.Name = "Label41"
+        Me.Label41.Size = New System.Drawing.Size(28, 17)
+        Me.Label41.TabIndex = 8
+        Me.Label41.Text = "OC"
         '
         'd41
         '
@@ -616,12 +659,34 @@ Partial Class StartForm
         Me.gb40.Controls.Add(Me.d40)
         Me.gb40.Controls.Add(Me.ah40)
         Me.gb40.Controls.Add(Me.oc40)
-        Me.gb40.Location = New System.Drawing.Point(672, 705)
+        Me.gb40.Location = New System.Drawing.Point(672, 689)
         Me.gb40.Name = "gb40"
-        Me.gb40.Size = New System.Drawing.Size(158, 126)
+        Me.gb40.Size = New System.Drawing.Size(158, 123)
         Me.gb40.TabIndex = 46
         Me.gb40.TabStop = False
         Me.gb40.Text = " "
+        '
+        'Label82
+        '
+        Me.Label82.AutoSize = True
+        Me.Label82.BackColor = System.Drawing.Color.Transparent
+        Me.Label82.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label82.Location = New System.Drawing.Point(3, 86)
+        Me.Label82.Name = "Label82"
+        Me.Label82.Size = New System.Drawing.Size(27, 17)
+        Me.Label82.TabIndex = 9
+        Me.Label82.Text = "AH"
+        '
+        'Label40
+        '
+        Me.Label40.AutoSize = True
+        Me.Label40.BackColor = System.Drawing.Color.Transparent
+        Me.Label40.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label40.Location = New System.Drawing.Point(2, 45)
+        Me.Label40.Name = "Label40"
+        Me.Label40.Size = New System.Drawing.Size(28, 17)
+        Me.Label40.TabIndex = 8
+        Me.Label40.Text = "OC"
         '
         'd40
         '
@@ -662,12 +727,34 @@ Partial Class StartForm
         Me.gb39.Controls.Add(Me.d39)
         Me.gb39.Controls.Add(Me.ah39)
         Me.gb39.Controls.Add(Me.oc39)
-        Me.gb39.Location = New System.Drawing.Point(505, 705)
+        Me.gb39.Location = New System.Drawing.Point(505, 689)
         Me.gb39.Name = "gb39"
-        Me.gb39.Size = New System.Drawing.Size(160, 126)
+        Me.gb39.Size = New System.Drawing.Size(160, 123)
         Me.gb39.TabIndex = 45
         Me.gb39.TabStop = False
         Me.gb39.Text = " "
+        '
+        'Label81
+        '
+        Me.Label81.AutoSize = True
+        Me.Label81.BackColor = System.Drawing.Color.Transparent
+        Me.Label81.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label81.Location = New System.Drawing.Point(2, 86)
+        Me.Label81.Name = "Label81"
+        Me.Label81.Size = New System.Drawing.Size(27, 17)
+        Me.Label81.TabIndex = 9
+        Me.Label81.Text = "AH"
+        '
+        'Label39
+        '
+        Me.Label39.AutoSize = True
+        Me.Label39.BackColor = System.Drawing.Color.Transparent
+        Me.Label39.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label39.Location = New System.Drawing.Point(2, 45)
+        Me.Label39.Name = "Label39"
+        Me.Label39.Size = New System.Drawing.Size(28, 17)
+        Me.Label39.TabIndex = 8
+        Me.Label39.Text = "OC"
         '
         'd39
         '
@@ -708,12 +795,34 @@ Partial Class StartForm
         Me.gb38.Controls.Add(Me.d38)
         Me.gb38.Controls.Add(Me.ah38)
         Me.gb38.Controls.Add(Me.oc38)
-        Me.gb38.Location = New System.Drawing.Point(338, 705)
+        Me.gb38.Location = New System.Drawing.Point(338, 689)
         Me.gb38.Name = "gb38"
-        Me.gb38.Size = New System.Drawing.Size(160, 126)
+        Me.gb38.Size = New System.Drawing.Size(160, 123)
         Me.gb38.TabIndex = 44
         Me.gb38.TabStop = False
         Me.gb38.Text = " "
+        '
+        'Label80
+        '
+        Me.Label80.AutoSize = True
+        Me.Label80.BackColor = System.Drawing.Color.Transparent
+        Me.Label80.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label80.Location = New System.Drawing.Point(3, 86)
+        Me.Label80.Name = "Label80"
+        Me.Label80.Size = New System.Drawing.Size(27, 17)
+        Me.Label80.TabIndex = 9
+        Me.Label80.Text = "AH"
+        '
+        'Label38
+        '
+        Me.Label38.AutoSize = True
+        Me.Label38.BackColor = System.Drawing.Color.Transparent
+        Me.Label38.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label38.Location = New System.Drawing.Point(2, 45)
+        Me.Label38.Name = "Label38"
+        Me.Label38.Size = New System.Drawing.Size(28, 17)
+        Me.Label38.TabIndex = 8
+        Me.Label38.Text = "OC"
         '
         'd38
         '
@@ -754,12 +863,34 @@ Partial Class StartForm
         Me.gb37.Controls.Add(Me.d37)
         Me.gb37.Controls.Add(Me.ah37)
         Me.gb37.Controls.Add(Me.oc37)
-        Me.gb37.Location = New System.Drawing.Point(171, 705)
+        Me.gb37.Location = New System.Drawing.Point(171, 689)
         Me.gb37.Name = "gb37"
-        Me.gb37.Size = New System.Drawing.Size(160, 126)
+        Me.gb37.Size = New System.Drawing.Size(160, 123)
         Me.gb37.TabIndex = 43
         Me.gb37.TabStop = False
         Me.gb37.Text = " "
+        '
+        'Label79
+        '
+        Me.Label79.AutoSize = True
+        Me.Label79.BackColor = System.Drawing.Color.Transparent
+        Me.Label79.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label79.Location = New System.Drawing.Point(2, 86)
+        Me.Label79.Name = "Label79"
+        Me.Label79.Size = New System.Drawing.Size(27, 17)
+        Me.Label79.TabIndex = 9
+        Me.Label79.Text = "AH"
+        '
+        'Label37
+        '
+        Me.Label37.AutoSize = True
+        Me.Label37.BackColor = System.Drawing.Color.Transparent
+        Me.Label37.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label37.Location = New System.Drawing.Point(2, 45)
+        Me.Label37.Name = "Label37"
+        Me.Label37.Size = New System.Drawing.Size(28, 17)
+        Me.Label37.TabIndex = 8
+        Me.Label37.Text = "OC"
         '
         'd37
         '
@@ -800,12 +931,34 @@ Partial Class StartForm
         Me.gb36.Controls.Add(Me.d36)
         Me.gb36.Controls.Add(Me.ah36)
         Me.gb36.Controls.Add(Me.oc36)
-        Me.gb36.Location = New System.Drawing.Point(4, 705)
+        Me.gb36.Location = New System.Drawing.Point(4, 689)
         Me.gb36.Name = "gb36"
-        Me.gb36.Size = New System.Drawing.Size(160, 126)
+        Me.gb36.Size = New System.Drawing.Size(160, 123)
         Me.gb36.TabIndex = 42
         Me.gb36.TabStop = False
         Me.gb36.Text = " "
+        '
+        'Label78
+        '
+        Me.Label78.AutoSize = True
+        Me.Label78.BackColor = System.Drawing.Color.Transparent
+        Me.Label78.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label78.Location = New System.Drawing.Point(6, 86)
+        Me.Label78.Name = "Label78"
+        Me.Label78.Size = New System.Drawing.Size(27, 17)
+        Me.Label78.TabIndex = 9
+        Me.Label78.Text = "AH"
+        '
+        'Label36
+        '
+        Me.Label36.AutoSize = True
+        Me.Label36.BackColor = System.Drawing.Color.Transparent
+        Me.Label36.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label36.Location = New System.Drawing.Point(2, 45)
+        Me.Label36.Name = "Label36"
+        Me.Label36.Size = New System.Drawing.Size(28, 17)
+        Me.Label36.TabIndex = 8
+        Me.Label36.Text = "OC"
         '
         'd36
         '
@@ -846,12 +999,34 @@ Partial Class StartForm
         Me.gb35.Controls.Add(Me.d35)
         Me.gb35.Controls.Add(Me.ah35)
         Me.gb35.Controls.Add(Me.oc35)
-        Me.gb35.Location = New System.Drawing.Point(1004, 578)
+        Me.gb35.Location = New System.Drawing.Point(1004, 565)
         Me.gb35.Name = "gb35"
-        Me.gb35.Size = New System.Drawing.Size(161, 120)
+        Me.gb35.Size = New System.Drawing.Size(161, 117)
         Me.gb35.TabIndex = 41
         Me.gb35.TabStop = False
         Me.gb35.Text = " "
+        '
+        'Label77
+        '
+        Me.Label77.AutoSize = True
+        Me.Label77.BackColor = System.Drawing.Color.Transparent
+        Me.Label77.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label77.Location = New System.Drawing.Point(3, 83)
+        Me.Label77.Name = "Label77"
+        Me.Label77.Size = New System.Drawing.Size(27, 17)
+        Me.Label77.TabIndex = 9
+        Me.Label77.Text = "AH"
+        '
+        'Label35
+        '
+        Me.Label35.AutoSize = True
+        Me.Label35.BackColor = System.Drawing.Color.Transparent
+        Me.Label35.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label35.Location = New System.Drawing.Point(2, 42)
+        Me.Label35.Name = "Label35"
+        Me.Label35.Size = New System.Drawing.Size(28, 17)
+        Me.Label35.TabIndex = 8
+        Me.Label35.Text = "OC"
         '
         'd35
         '
@@ -892,12 +1067,34 @@ Partial Class StartForm
         Me.gb34.Controls.Add(Me.d34)
         Me.gb34.Controls.Add(Me.ah34)
         Me.gb34.Controls.Add(Me.oc34)
-        Me.gb34.Location = New System.Drawing.Point(837, 578)
+        Me.gb34.Location = New System.Drawing.Point(837, 565)
         Me.gb34.Name = "gb34"
-        Me.gb34.Size = New System.Drawing.Size(160, 120)
+        Me.gb34.Size = New System.Drawing.Size(160, 117)
         Me.gb34.TabIndex = 40
         Me.gb34.TabStop = False
         Me.gb34.Text = " "
+        '
+        'Label76
+        '
+        Me.Label76.AutoSize = True
+        Me.Label76.BackColor = System.Drawing.Color.Transparent
+        Me.Label76.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label76.Location = New System.Drawing.Point(3, 83)
+        Me.Label76.Name = "Label76"
+        Me.Label76.Size = New System.Drawing.Size(27, 17)
+        Me.Label76.TabIndex = 9
+        Me.Label76.Text = "AH"
+        '
+        'Label34
+        '
+        Me.Label34.AutoSize = True
+        Me.Label34.BackColor = System.Drawing.Color.Transparent
+        Me.Label34.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label34.Location = New System.Drawing.Point(2, 42)
+        Me.Label34.Name = "Label34"
+        Me.Label34.Size = New System.Drawing.Size(28, 17)
+        Me.Label34.TabIndex = 8
+        Me.Label34.Text = "OC"
         '
         'd34
         '
@@ -938,12 +1135,34 @@ Partial Class StartForm
         Me.gb33.Controls.Add(Me.d33)
         Me.gb33.Controls.Add(Me.ah33)
         Me.gb33.Controls.Add(Me.oc33)
-        Me.gb33.Location = New System.Drawing.Point(672, 578)
+        Me.gb33.Location = New System.Drawing.Point(672, 565)
         Me.gb33.Name = "gb33"
-        Me.gb33.Size = New System.Drawing.Size(158, 120)
+        Me.gb33.Size = New System.Drawing.Size(158, 117)
         Me.gb33.TabIndex = 39
         Me.gb33.TabStop = False
         Me.gb33.Text = " "
+        '
+        'Label75
+        '
+        Me.Label75.AutoSize = True
+        Me.Label75.BackColor = System.Drawing.Color.Transparent
+        Me.Label75.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label75.Location = New System.Drawing.Point(3, 83)
+        Me.Label75.Name = "Label75"
+        Me.Label75.Size = New System.Drawing.Size(27, 17)
+        Me.Label75.TabIndex = 9
+        Me.Label75.Text = "AH"
+        '
+        'Label33
+        '
+        Me.Label33.AutoSize = True
+        Me.Label33.BackColor = System.Drawing.Color.Transparent
+        Me.Label33.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label33.Location = New System.Drawing.Point(2, 42)
+        Me.Label33.Name = "Label33"
+        Me.Label33.Size = New System.Drawing.Size(28, 17)
+        Me.Label33.TabIndex = 8
+        Me.Label33.Text = "OC"
         '
         'd33
         '
@@ -984,12 +1203,34 @@ Partial Class StartForm
         Me.gb32.Controls.Add(Me.d32)
         Me.gb32.Controls.Add(Me.ah32)
         Me.gb32.Controls.Add(Me.oc32)
-        Me.gb32.Location = New System.Drawing.Point(505, 578)
+        Me.gb32.Location = New System.Drawing.Point(505, 565)
         Me.gb32.Name = "gb32"
-        Me.gb32.Size = New System.Drawing.Size(160, 120)
+        Me.gb32.Size = New System.Drawing.Size(160, 117)
         Me.gb32.TabIndex = 38
         Me.gb32.TabStop = False
         Me.gb32.Text = " "
+        '
+        'Label74
+        '
+        Me.Label74.AutoSize = True
+        Me.Label74.BackColor = System.Drawing.Color.Transparent
+        Me.Label74.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label74.Location = New System.Drawing.Point(2, 83)
+        Me.Label74.Name = "Label74"
+        Me.Label74.Size = New System.Drawing.Size(27, 17)
+        Me.Label74.TabIndex = 9
+        Me.Label74.Text = "AH"
+        '
+        'Label32
+        '
+        Me.Label32.AutoSize = True
+        Me.Label32.BackColor = System.Drawing.Color.Transparent
+        Me.Label32.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label32.Location = New System.Drawing.Point(2, 42)
+        Me.Label32.Name = "Label32"
+        Me.Label32.Size = New System.Drawing.Size(28, 17)
+        Me.Label32.TabIndex = 8
+        Me.Label32.Text = "OC"
         '
         'd32
         '
@@ -1030,12 +1271,34 @@ Partial Class StartForm
         Me.gb31.Controls.Add(Me.d31)
         Me.gb31.Controls.Add(Me.ah31)
         Me.gb31.Controls.Add(Me.oc31)
-        Me.gb31.Location = New System.Drawing.Point(338, 578)
+        Me.gb31.Location = New System.Drawing.Point(338, 565)
         Me.gb31.Name = "gb31"
-        Me.gb31.Size = New System.Drawing.Size(160, 120)
+        Me.gb31.Size = New System.Drawing.Size(160, 117)
         Me.gb31.TabIndex = 37
         Me.gb31.TabStop = False
         Me.gb31.Text = " "
+        '
+        'Label73
+        '
+        Me.Label73.AutoSize = True
+        Me.Label73.BackColor = System.Drawing.Color.Transparent
+        Me.Label73.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label73.Location = New System.Drawing.Point(2, 83)
+        Me.Label73.Name = "Label73"
+        Me.Label73.Size = New System.Drawing.Size(27, 17)
+        Me.Label73.TabIndex = 9
+        Me.Label73.Text = "AH"
+        '
+        'Label31
+        '
+        Me.Label31.AutoSize = True
+        Me.Label31.BackColor = System.Drawing.Color.Transparent
+        Me.Label31.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label31.Location = New System.Drawing.Point(2, 42)
+        Me.Label31.Name = "Label31"
+        Me.Label31.Size = New System.Drawing.Size(28, 17)
+        Me.Label31.TabIndex = 8
+        Me.Label31.Text = "OC"
         '
         'd31
         '
@@ -1076,12 +1339,34 @@ Partial Class StartForm
         Me.gb30.Controls.Add(Me.d30)
         Me.gb30.Controls.Add(Me.ah30)
         Me.gb30.Controls.Add(Me.oc30)
-        Me.gb30.Location = New System.Drawing.Point(171, 578)
+        Me.gb30.Location = New System.Drawing.Point(171, 565)
         Me.gb30.Name = "gb30"
-        Me.gb30.Size = New System.Drawing.Size(160, 120)
+        Me.gb30.Size = New System.Drawing.Size(160, 117)
         Me.gb30.TabIndex = 36
         Me.gb30.TabStop = False
         Me.gb30.Text = " "
+        '
+        'Label72
+        '
+        Me.Label72.AutoSize = True
+        Me.Label72.BackColor = System.Drawing.Color.Transparent
+        Me.Label72.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label72.Location = New System.Drawing.Point(2, 83)
+        Me.Label72.Name = "Label72"
+        Me.Label72.Size = New System.Drawing.Size(27, 17)
+        Me.Label72.TabIndex = 9
+        Me.Label72.Text = "AH"
+        '
+        'Label30
+        '
+        Me.Label30.AutoSize = True
+        Me.Label30.BackColor = System.Drawing.Color.Transparent
+        Me.Label30.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label30.Location = New System.Drawing.Point(2, 42)
+        Me.Label30.Name = "Label30"
+        Me.Label30.Size = New System.Drawing.Size(28, 17)
+        Me.Label30.TabIndex = 8
+        Me.Label30.Text = "OC"
         '
         'd30
         '
@@ -1122,12 +1407,34 @@ Partial Class StartForm
         Me.gb29.Controls.Add(Me.d29)
         Me.gb29.Controls.Add(Me.ah29)
         Me.gb29.Controls.Add(Me.oc29)
-        Me.gb29.Location = New System.Drawing.Point(4, 578)
+        Me.gb29.Location = New System.Drawing.Point(4, 565)
         Me.gb29.Name = "gb29"
-        Me.gb29.Size = New System.Drawing.Size(160, 120)
+        Me.gb29.Size = New System.Drawing.Size(160, 117)
         Me.gb29.TabIndex = 35
         Me.gb29.TabStop = False
         Me.gb29.Text = " "
+        '
+        'Label71
+        '
+        Me.Label71.AutoSize = True
+        Me.Label71.BackColor = System.Drawing.Color.Transparent
+        Me.Label71.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label71.Location = New System.Drawing.Point(3, 83)
+        Me.Label71.Name = "Label71"
+        Me.Label71.Size = New System.Drawing.Size(27, 17)
+        Me.Label71.TabIndex = 9
+        Me.Label71.Text = "AH"
+        '
+        'Label29
+        '
+        Me.Label29.AutoSize = True
+        Me.Label29.BackColor = System.Drawing.Color.Transparent
+        Me.Label29.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label29.Location = New System.Drawing.Point(2, 42)
+        Me.Label29.Name = "Label29"
+        Me.Label29.Size = New System.Drawing.Size(28, 17)
+        Me.Label29.TabIndex = 8
+        Me.Label29.Text = "OC"
         '
         'd29
         '
@@ -1168,12 +1475,34 @@ Partial Class StartForm
         Me.gb28.Controls.Add(Me.d28)
         Me.gb28.Controls.Add(Me.ah28)
         Me.gb28.Controls.Add(Me.oc28)
-        Me.gb28.Location = New System.Drawing.Point(1004, 451)
+        Me.gb28.Location = New System.Drawing.Point(1004, 441)
         Me.gb28.Name = "gb28"
-        Me.gb28.Size = New System.Drawing.Size(161, 120)
+        Me.gb28.Size = New System.Drawing.Size(161, 117)
         Me.gb28.TabIndex = 34
         Me.gb28.TabStop = False
         Me.gb28.Text = " "
+        '
+        'Label70
+        '
+        Me.Label70.AutoSize = True
+        Me.Label70.BackColor = System.Drawing.Color.Transparent
+        Me.Label70.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label70.Location = New System.Drawing.Point(3, 83)
+        Me.Label70.Name = "Label70"
+        Me.Label70.Size = New System.Drawing.Size(27, 17)
+        Me.Label70.TabIndex = 9
+        Me.Label70.Text = "AH"
+        '
+        'Label28
+        '
+        Me.Label28.AutoSize = True
+        Me.Label28.BackColor = System.Drawing.Color.Transparent
+        Me.Label28.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label28.Location = New System.Drawing.Point(2, 42)
+        Me.Label28.Name = "Label28"
+        Me.Label28.Size = New System.Drawing.Size(28, 17)
+        Me.Label28.TabIndex = 8
+        Me.Label28.Text = "OC"
         '
         'd28
         '
@@ -1214,12 +1543,34 @@ Partial Class StartForm
         Me.gb27.Controls.Add(Me.d27)
         Me.gb27.Controls.Add(Me.ah27)
         Me.gb27.Controls.Add(Me.oc27)
-        Me.gb27.Location = New System.Drawing.Point(837, 451)
+        Me.gb27.Location = New System.Drawing.Point(837, 441)
         Me.gb27.Name = "gb27"
-        Me.gb27.Size = New System.Drawing.Size(160, 120)
+        Me.gb27.Size = New System.Drawing.Size(160, 117)
         Me.gb27.TabIndex = 33
         Me.gb27.TabStop = False
         Me.gb27.Text = " "
+        '
+        'Label69
+        '
+        Me.Label69.AutoSize = True
+        Me.Label69.BackColor = System.Drawing.Color.Transparent
+        Me.Label69.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label69.Location = New System.Drawing.Point(3, 83)
+        Me.Label69.Name = "Label69"
+        Me.Label69.Size = New System.Drawing.Size(27, 17)
+        Me.Label69.TabIndex = 9
+        Me.Label69.Text = "AH"
+        '
+        'Label27
+        '
+        Me.Label27.AutoSize = True
+        Me.Label27.BackColor = System.Drawing.Color.Transparent
+        Me.Label27.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label27.Location = New System.Drawing.Point(2, 42)
+        Me.Label27.Name = "Label27"
+        Me.Label27.Size = New System.Drawing.Size(28, 17)
+        Me.Label27.TabIndex = 8
+        Me.Label27.Text = "OC"
         '
         'd27
         '
@@ -1260,12 +1611,34 @@ Partial Class StartForm
         Me.gb26.Controls.Add(Me.d26)
         Me.gb26.Controls.Add(Me.ah26)
         Me.gb26.Controls.Add(Me.oc26)
-        Me.gb26.Location = New System.Drawing.Point(672, 451)
+        Me.gb26.Location = New System.Drawing.Point(672, 441)
         Me.gb26.Name = "gb26"
-        Me.gb26.Size = New System.Drawing.Size(158, 120)
+        Me.gb26.Size = New System.Drawing.Size(158, 117)
         Me.gb26.TabIndex = 32
         Me.gb26.TabStop = False
         Me.gb26.Text = " "
+        '
+        'Label68
+        '
+        Me.Label68.AutoSize = True
+        Me.Label68.BackColor = System.Drawing.Color.Transparent
+        Me.Label68.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label68.Location = New System.Drawing.Point(3, 83)
+        Me.Label68.Name = "Label68"
+        Me.Label68.Size = New System.Drawing.Size(27, 17)
+        Me.Label68.TabIndex = 9
+        Me.Label68.Text = "AH"
+        '
+        'Label26
+        '
+        Me.Label26.AutoSize = True
+        Me.Label26.BackColor = System.Drawing.Color.Transparent
+        Me.Label26.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label26.Location = New System.Drawing.Point(2, 42)
+        Me.Label26.Name = "Label26"
+        Me.Label26.Size = New System.Drawing.Size(28, 17)
+        Me.Label26.TabIndex = 8
+        Me.Label26.Text = "OC"
         '
         'd26
         '
@@ -1306,12 +1679,34 @@ Partial Class StartForm
         Me.gb25.Controls.Add(Me.d25)
         Me.gb25.Controls.Add(Me.ah25)
         Me.gb25.Controls.Add(Me.oc25)
-        Me.gb25.Location = New System.Drawing.Point(505, 451)
+        Me.gb25.Location = New System.Drawing.Point(505, 441)
         Me.gb25.Name = "gb25"
-        Me.gb25.Size = New System.Drawing.Size(160, 120)
+        Me.gb25.Size = New System.Drawing.Size(160, 117)
         Me.gb25.TabIndex = 31
         Me.gb25.TabStop = False
         Me.gb25.Text = " "
+        '
+        'Label67
+        '
+        Me.Label67.AutoSize = True
+        Me.Label67.BackColor = System.Drawing.Color.Transparent
+        Me.Label67.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label67.Location = New System.Drawing.Point(3, 83)
+        Me.Label67.Name = "Label67"
+        Me.Label67.Size = New System.Drawing.Size(27, 17)
+        Me.Label67.TabIndex = 9
+        Me.Label67.Text = "AH"
+        '
+        'Label25
+        '
+        Me.Label25.AutoSize = True
+        Me.Label25.BackColor = System.Drawing.Color.Transparent
+        Me.Label25.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label25.Location = New System.Drawing.Point(2, 42)
+        Me.Label25.Name = "Label25"
+        Me.Label25.Size = New System.Drawing.Size(28, 17)
+        Me.Label25.TabIndex = 8
+        Me.Label25.Text = "OC"
         '
         'd25
         '
@@ -1352,12 +1747,34 @@ Partial Class StartForm
         Me.gb24.Controls.Add(Me.d24)
         Me.gb24.Controls.Add(Me.ah24)
         Me.gb24.Controls.Add(Me.oc24)
-        Me.gb24.Location = New System.Drawing.Point(338, 451)
+        Me.gb24.Location = New System.Drawing.Point(338, 441)
         Me.gb24.Name = "gb24"
-        Me.gb24.Size = New System.Drawing.Size(160, 120)
+        Me.gb24.Size = New System.Drawing.Size(160, 117)
         Me.gb24.TabIndex = 30
         Me.gb24.TabStop = False
         Me.gb24.Text = " "
+        '
+        'Label66
+        '
+        Me.Label66.AutoSize = True
+        Me.Label66.BackColor = System.Drawing.Color.Transparent
+        Me.Label66.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label66.Location = New System.Drawing.Point(3, 83)
+        Me.Label66.Name = "Label66"
+        Me.Label66.Size = New System.Drawing.Size(27, 17)
+        Me.Label66.TabIndex = 9
+        Me.Label66.Text = "AH"
+        '
+        'Label24
+        '
+        Me.Label24.AutoSize = True
+        Me.Label24.BackColor = System.Drawing.Color.Transparent
+        Me.Label24.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label24.Location = New System.Drawing.Point(2, 42)
+        Me.Label24.Name = "Label24"
+        Me.Label24.Size = New System.Drawing.Size(28, 17)
+        Me.Label24.TabIndex = 8
+        Me.Label24.Text = "OC"
         '
         'd24
         '
@@ -1398,12 +1815,34 @@ Partial Class StartForm
         Me.gb23.Controls.Add(Me.d23)
         Me.gb23.Controls.Add(Me.ah23)
         Me.gb23.Controls.Add(Me.oc23)
-        Me.gb23.Location = New System.Drawing.Point(171, 451)
+        Me.gb23.Location = New System.Drawing.Point(171, 441)
         Me.gb23.Name = "gb23"
-        Me.gb23.Size = New System.Drawing.Size(160, 120)
+        Me.gb23.Size = New System.Drawing.Size(160, 117)
         Me.gb23.TabIndex = 29
         Me.gb23.TabStop = False
         Me.gb23.Text = " "
+        '
+        'Label65
+        '
+        Me.Label65.AutoSize = True
+        Me.Label65.BackColor = System.Drawing.Color.Transparent
+        Me.Label65.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label65.Location = New System.Drawing.Point(3, 83)
+        Me.Label65.Name = "Label65"
+        Me.Label65.Size = New System.Drawing.Size(27, 17)
+        Me.Label65.TabIndex = 9
+        Me.Label65.Text = "AH"
+        '
+        'Label23
+        '
+        Me.Label23.AutoSize = True
+        Me.Label23.BackColor = System.Drawing.Color.Transparent
+        Me.Label23.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label23.Location = New System.Drawing.Point(2, 42)
+        Me.Label23.Name = "Label23"
+        Me.Label23.Size = New System.Drawing.Size(28, 17)
+        Me.Label23.TabIndex = 8
+        Me.Label23.Text = "OC"
         '
         'd23
         '
@@ -1444,12 +1883,34 @@ Partial Class StartForm
         Me.gb22.Controls.Add(Me.d22)
         Me.gb22.Controls.Add(Me.ah22)
         Me.gb22.Controls.Add(Me.oc22)
-        Me.gb22.Location = New System.Drawing.Point(4, 451)
+        Me.gb22.Location = New System.Drawing.Point(4, 441)
         Me.gb22.Name = "gb22"
-        Me.gb22.Size = New System.Drawing.Size(160, 120)
+        Me.gb22.Size = New System.Drawing.Size(160, 117)
         Me.gb22.TabIndex = 28
         Me.gb22.TabStop = False
         Me.gb22.Text = " "
+        '
+        'Label64
+        '
+        Me.Label64.AutoSize = True
+        Me.Label64.BackColor = System.Drawing.Color.Transparent
+        Me.Label64.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label64.Location = New System.Drawing.Point(3, 83)
+        Me.Label64.Name = "Label64"
+        Me.Label64.Size = New System.Drawing.Size(27, 17)
+        Me.Label64.TabIndex = 9
+        Me.Label64.Text = "AH"
+        '
+        'Label22
+        '
+        Me.Label22.AutoSize = True
+        Me.Label22.BackColor = System.Drawing.Color.Transparent
+        Me.Label22.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label22.Location = New System.Drawing.Point(2, 42)
+        Me.Label22.Name = "Label22"
+        Me.Label22.Size = New System.Drawing.Size(28, 17)
+        Me.Label22.TabIndex = 8
+        Me.Label22.Text = "OC"
         '
         'd22
         '
@@ -1490,12 +1951,34 @@ Partial Class StartForm
         Me.gb21.Controls.Add(Me.d21)
         Me.gb21.Controls.Add(Me.ah21)
         Me.gb21.Controls.Add(Me.oc21)
-        Me.gb21.Location = New System.Drawing.Point(1004, 324)
+        Me.gb21.Location = New System.Drawing.Point(1004, 317)
         Me.gb21.Name = "gb21"
-        Me.gb21.Size = New System.Drawing.Size(161, 120)
+        Me.gb21.Size = New System.Drawing.Size(161, 117)
         Me.gb21.TabIndex = 27
         Me.gb21.TabStop = False
         Me.gb21.Text = " "
+        '
+        'Label63
+        '
+        Me.Label63.AutoSize = True
+        Me.Label63.BackColor = System.Drawing.Color.Transparent
+        Me.Label63.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label63.Location = New System.Drawing.Point(1, 83)
+        Me.Label63.Name = "Label63"
+        Me.Label63.Size = New System.Drawing.Size(27, 17)
+        Me.Label63.TabIndex = 9
+        Me.Label63.Text = "AH"
+        '
+        'Label21
+        '
+        Me.Label21.AutoSize = True
+        Me.Label21.BackColor = System.Drawing.Color.Transparent
+        Me.Label21.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label21.Location = New System.Drawing.Point(2, 42)
+        Me.Label21.Name = "Label21"
+        Me.Label21.Size = New System.Drawing.Size(28, 17)
+        Me.Label21.TabIndex = 7
+        Me.Label21.Text = "OC"
         '
         'd21
         '
@@ -1536,12 +2019,34 @@ Partial Class StartForm
         Me.gb20.Controls.Add(Me.d20)
         Me.gb20.Controls.Add(Me.ah20)
         Me.gb20.Controls.Add(Me.oc20)
-        Me.gb20.Location = New System.Drawing.Point(837, 324)
+        Me.gb20.Location = New System.Drawing.Point(837, 317)
         Me.gb20.Name = "gb20"
-        Me.gb20.Size = New System.Drawing.Size(160, 120)
+        Me.gb20.Size = New System.Drawing.Size(160, 117)
         Me.gb20.TabIndex = 26
         Me.gb20.TabStop = False
         Me.gb20.Text = " "
+        '
+        'Label62
+        '
+        Me.Label62.AutoSize = True
+        Me.Label62.BackColor = System.Drawing.Color.Transparent
+        Me.Label62.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label62.Location = New System.Drawing.Point(3, 83)
+        Me.Label62.Name = "Label62"
+        Me.Label62.Size = New System.Drawing.Size(27, 17)
+        Me.Label62.TabIndex = 9
+        Me.Label62.Text = "AH"
+        '
+        'Label20
+        '
+        Me.Label20.AutoSize = True
+        Me.Label20.BackColor = System.Drawing.Color.Transparent
+        Me.Label20.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label20.Location = New System.Drawing.Point(2, 42)
+        Me.Label20.Name = "Label20"
+        Me.Label20.Size = New System.Drawing.Size(28, 17)
+        Me.Label20.TabIndex = 7
+        Me.Label20.Text = "OC"
         '
         'd20
         '
@@ -1582,12 +2087,34 @@ Partial Class StartForm
         Me.gb19.Controls.Add(Me.d19)
         Me.gb19.Controls.Add(Me.ah19)
         Me.gb19.Controls.Add(Me.oc19)
-        Me.gb19.Location = New System.Drawing.Point(672, 324)
+        Me.gb19.Location = New System.Drawing.Point(672, 317)
         Me.gb19.Name = "gb19"
-        Me.gb19.Size = New System.Drawing.Size(158, 120)
+        Me.gb19.Size = New System.Drawing.Size(158, 117)
         Me.gb19.TabIndex = 25
         Me.gb19.TabStop = False
         Me.gb19.Text = " "
+        '
+        'Label61
+        '
+        Me.Label61.AutoSize = True
+        Me.Label61.BackColor = System.Drawing.Color.Transparent
+        Me.Label61.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label61.Location = New System.Drawing.Point(3, 83)
+        Me.Label61.Name = "Label61"
+        Me.Label61.Size = New System.Drawing.Size(27, 17)
+        Me.Label61.TabIndex = 9
+        Me.Label61.Text = "AH"
+        '
+        'Label19
+        '
+        Me.Label19.AutoSize = True
+        Me.Label19.BackColor = System.Drawing.Color.Transparent
+        Me.Label19.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label19.Location = New System.Drawing.Point(2, 42)
+        Me.Label19.Name = "Label19"
+        Me.Label19.Size = New System.Drawing.Size(28, 17)
+        Me.Label19.TabIndex = 7
+        Me.Label19.Text = "OC"
         '
         'd19
         '
@@ -1628,12 +2155,34 @@ Partial Class StartForm
         Me.gb18.Controls.Add(Me.d18)
         Me.gb18.Controls.Add(Me.ah18)
         Me.gb18.Controls.Add(Me.oc18)
-        Me.gb18.Location = New System.Drawing.Point(505, 324)
+        Me.gb18.Location = New System.Drawing.Point(505, 317)
         Me.gb18.Name = "gb18"
-        Me.gb18.Size = New System.Drawing.Size(160, 120)
+        Me.gb18.Size = New System.Drawing.Size(160, 117)
         Me.gb18.TabIndex = 24
         Me.gb18.TabStop = False
         Me.gb18.Text = " "
+        '
+        'Label60
+        '
+        Me.Label60.AutoSize = True
+        Me.Label60.BackColor = System.Drawing.Color.Transparent
+        Me.Label60.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label60.Location = New System.Drawing.Point(3, 83)
+        Me.Label60.Name = "Label60"
+        Me.Label60.Size = New System.Drawing.Size(27, 17)
+        Me.Label60.TabIndex = 9
+        Me.Label60.Text = "AH"
+        '
+        'Label18
+        '
+        Me.Label18.AutoSize = True
+        Me.Label18.BackColor = System.Drawing.Color.Transparent
+        Me.Label18.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label18.Location = New System.Drawing.Point(2, 42)
+        Me.Label18.Name = "Label18"
+        Me.Label18.Size = New System.Drawing.Size(28, 17)
+        Me.Label18.TabIndex = 7
+        Me.Label18.Text = "OC"
         '
         'd18
         '
@@ -1674,12 +2223,34 @@ Partial Class StartForm
         Me.gb17.Controls.Add(Me.d17)
         Me.gb17.Controls.Add(Me.ah17)
         Me.gb17.Controls.Add(Me.oc17)
-        Me.gb17.Location = New System.Drawing.Point(338, 324)
+        Me.gb17.Location = New System.Drawing.Point(338, 317)
         Me.gb17.Name = "gb17"
-        Me.gb17.Size = New System.Drawing.Size(160, 120)
+        Me.gb17.Size = New System.Drawing.Size(160, 117)
         Me.gb17.TabIndex = 23
         Me.gb17.TabStop = False
         Me.gb17.Text = " "
+        '
+        'Label59
+        '
+        Me.Label59.AutoSize = True
+        Me.Label59.BackColor = System.Drawing.Color.Transparent
+        Me.Label59.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label59.Location = New System.Drawing.Point(3, 83)
+        Me.Label59.Name = "Label59"
+        Me.Label59.Size = New System.Drawing.Size(27, 17)
+        Me.Label59.TabIndex = 9
+        Me.Label59.Text = "AH"
+        '
+        'Label17
+        '
+        Me.Label17.AutoSize = True
+        Me.Label17.BackColor = System.Drawing.Color.Transparent
+        Me.Label17.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label17.Location = New System.Drawing.Point(2, 42)
+        Me.Label17.Name = "Label17"
+        Me.Label17.Size = New System.Drawing.Size(28, 17)
+        Me.Label17.TabIndex = 7
+        Me.Label17.Text = "OC"
         '
         'd17
         '
@@ -1720,12 +2291,34 @@ Partial Class StartForm
         Me.gb16.Controls.Add(Me.d16)
         Me.gb16.Controls.Add(Me.ah16)
         Me.gb16.Controls.Add(Me.oc16)
-        Me.gb16.Location = New System.Drawing.Point(171, 324)
+        Me.gb16.Location = New System.Drawing.Point(171, 317)
         Me.gb16.Name = "gb16"
-        Me.gb16.Size = New System.Drawing.Size(160, 120)
+        Me.gb16.Size = New System.Drawing.Size(160, 117)
         Me.gb16.TabIndex = 22
         Me.gb16.TabStop = False
         Me.gb16.Text = " "
+        '
+        'Label58
+        '
+        Me.Label58.AutoSize = True
+        Me.Label58.BackColor = System.Drawing.Color.Transparent
+        Me.Label58.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label58.Location = New System.Drawing.Point(2, 83)
+        Me.Label58.Name = "Label58"
+        Me.Label58.Size = New System.Drawing.Size(27, 17)
+        Me.Label58.TabIndex = 9
+        Me.Label58.Text = "AH"
+        '
+        'Label16
+        '
+        Me.Label16.AutoSize = True
+        Me.Label16.BackColor = System.Drawing.Color.Transparent
+        Me.Label16.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label16.Location = New System.Drawing.Point(2, 42)
+        Me.Label16.Name = "Label16"
+        Me.Label16.Size = New System.Drawing.Size(28, 17)
+        Me.Label16.TabIndex = 7
+        Me.Label16.Text = "OC"
         '
         'd16
         '
@@ -1766,12 +2359,34 @@ Partial Class StartForm
         Me.gb15.Controls.Add(Me.d15)
         Me.gb15.Controls.Add(Me.ah15)
         Me.gb15.Controls.Add(Me.oc15)
-        Me.gb15.Location = New System.Drawing.Point(4, 324)
+        Me.gb15.Location = New System.Drawing.Point(4, 317)
         Me.gb15.Name = "gb15"
-        Me.gb15.Size = New System.Drawing.Size(160, 120)
+        Me.gb15.Size = New System.Drawing.Size(160, 117)
         Me.gb15.TabIndex = 21
         Me.gb15.TabStop = False
         Me.gb15.Text = " "
+        '
+        'Label57
+        '
+        Me.Label57.AutoSize = True
+        Me.Label57.BackColor = System.Drawing.Color.Transparent
+        Me.Label57.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label57.Location = New System.Drawing.Point(2, 83)
+        Me.Label57.Name = "Label57"
+        Me.Label57.Size = New System.Drawing.Size(27, 17)
+        Me.Label57.TabIndex = 9
+        Me.Label57.Text = "AH"
+        '
+        'Label15
+        '
+        Me.Label15.AutoSize = True
+        Me.Label15.BackColor = System.Drawing.Color.Transparent
+        Me.Label15.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label15.Location = New System.Drawing.Point(2, 42)
+        Me.Label15.Name = "Label15"
+        Me.Label15.Size = New System.Drawing.Size(28, 17)
+        Me.Label15.TabIndex = 6
+        Me.Label15.Text = "OC"
         '
         'd15
         '
@@ -1812,12 +2427,34 @@ Partial Class StartForm
         Me.gb14.Controls.Add(Me.d14)
         Me.gb14.Controls.Add(Me.ah14)
         Me.gb14.Controls.Add(Me.oc14)
-        Me.gb14.Location = New System.Drawing.Point(1004, 197)
+        Me.gb14.Location = New System.Drawing.Point(1004, 193)
         Me.gb14.Name = "gb14"
-        Me.gb14.Size = New System.Drawing.Size(161, 120)
+        Me.gb14.Size = New System.Drawing.Size(161, 117)
         Me.gb14.TabIndex = 20
         Me.gb14.TabStop = False
         Me.gb14.Text = " "
+        '
+        'Label56
+        '
+        Me.Label56.AutoSize = True
+        Me.Label56.BackColor = System.Drawing.Color.Transparent
+        Me.Label56.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label56.Location = New System.Drawing.Point(6, 83)
+        Me.Label56.Name = "Label56"
+        Me.Label56.Size = New System.Drawing.Size(27, 17)
+        Me.Label56.TabIndex = 9
+        Me.Label56.Text = "AH"
+        '
+        'Label14
+        '
+        Me.Label14.AutoSize = True
+        Me.Label14.BackColor = System.Drawing.Color.Transparent
+        Me.Label14.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label14.Location = New System.Drawing.Point(6, 42)
+        Me.Label14.Name = "Label14"
+        Me.Label14.Size = New System.Drawing.Size(28, 17)
+        Me.Label14.TabIndex = 6
+        Me.Label14.Text = "OC"
         '
         'd14
         '
@@ -1858,12 +2495,34 @@ Partial Class StartForm
         Me.gb13.Controls.Add(Me.d13)
         Me.gb13.Controls.Add(Me.ah13)
         Me.gb13.Controls.Add(Me.oc13)
-        Me.gb13.Location = New System.Drawing.Point(837, 197)
+        Me.gb13.Location = New System.Drawing.Point(837, 193)
         Me.gb13.Name = "gb13"
-        Me.gb13.Size = New System.Drawing.Size(160, 120)
+        Me.gb13.Size = New System.Drawing.Size(160, 117)
         Me.gb13.TabIndex = 19
         Me.gb13.TabStop = False
         Me.gb13.Text = " "
+        '
+        'Label55
+        '
+        Me.Label55.AutoSize = True
+        Me.Label55.BackColor = System.Drawing.Color.Transparent
+        Me.Label55.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label55.Location = New System.Drawing.Point(3, 83)
+        Me.Label55.Name = "Label55"
+        Me.Label55.Size = New System.Drawing.Size(27, 17)
+        Me.Label55.TabIndex = 9
+        Me.Label55.Text = "AH"
+        '
+        'Label13
+        '
+        Me.Label13.AutoSize = True
+        Me.Label13.BackColor = System.Drawing.Color.Transparent
+        Me.Label13.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label13.Location = New System.Drawing.Point(6, 42)
+        Me.Label13.Name = "Label13"
+        Me.Label13.Size = New System.Drawing.Size(28, 17)
+        Me.Label13.TabIndex = 6
+        Me.Label13.Text = "OC"
         '
         'd13
         '
@@ -1904,12 +2563,34 @@ Partial Class StartForm
         Me.gb12.Controls.Add(Me.d12)
         Me.gb12.Controls.Add(Me.ah12)
         Me.gb12.Controls.Add(Me.oc12)
-        Me.gb12.Location = New System.Drawing.Point(672, 197)
+        Me.gb12.Location = New System.Drawing.Point(672, 193)
         Me.gb12.Name = "gb12"
-        Me.gb12.Size = New System.Drawing.Size(158, 120)
+        Me.gb12.Size = New System.Drawing.Size(158, 117)
         Me.gb12.TabIndex = 18
         Me.gb12.TabStop = False
         Me.gb12.Text = " "
+        '
+        'Label54
+        '
+        Me.Label54.AutoSize = True
+        Me.Label54.BackColor = System.Drawing.Color.Transparent
+        Me.Label54.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label54.Location = New System.Drawing.Point(2, 83)
+        Me.Label54.Name = "Label54"
+        Me.Label54.Size = New System.Drawing.Size(27, 17)
+        Me.Label54.TabIndex = 9
+        Me.Label54.Text = "AH"
+        '
+        'Label12
+        '
+        Me.Label12.AutoSize = True
+        Me.Label12.BackColor = System.Drawing.Color.Transparent
+        Me.Label12.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label12.Location = New System.Drawing.Point(2, 42)
+        Me.Label12.Name = "Label12"
+        Me.Label12.Size = New System.Drawing.Size(28, 17)
+        Me.Label12.TabIndex = 6
+        Me.Label12.Text = "OC"
         '
         'd12
         '
@@ -1950,12 +2631,34 @@ Partial Class StartForm
         Me.gb11.Controls.Add(Me.d11)
         Me.gb11.Controls.Add(Me.ah11)
         Me.gb11.Controls.Add(Me.oc11)
-        Me.gb11.Location = New System.Drawing.Point(505, 197)
+        Me.gb11.Location = New System.Drawing.Point(505, 193)
         Me.gb11.Name = "gb11"
-        Me.gb11.Size = New System.Drawing.Size(160, 120)
+        Me.gb11.Size = New System.Drawing.Size(160, 117)
         Me.gb11.TabIndex = 17
         Me.gb11.TabStop = False
         Me.gb11.Text = " "
+        '
+        'Label53
+        '
+        Me.Label53.AutoSize = True
+        Me.Label53.BackColor = System.Drawing.Color.Transparent
+        Me.Label53.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label53.Location = New System.Drawing.Point(6, 83)
+        Me.Label53.Name = "Label53"
+        Me.Label53.Size = New System.Drawing.Size(27, 17)
+        Me.Label53.TabIndex = 9
+        Me.Label53.Text = "AH"
+        '
+        'Label11
+        '
+        Me.Label11.AutoSize = True
+        Me.Label11.BackColor = System.Drawing.Color.Transparent
+        Me.Label11.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label11.Location = New System.Drawing.Point(6, 42)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(28, 17)
+        Me.Label11.TabIndex = 6
+        Me.Label11.Text = "OC"
         '
         'd11
         '
@@ -1996,12 +2699,34 @@ Partial Class StartForm
         Me.gb10.Controls.Add(Me.d10)
         Me.gb10.Controls.Add(Me.ah10)
         Me.gb10.Controls.Add(Me.oc10)
-        Me.gb10.Location = New System.Drawing.Point(338, 197)
+        Me.gb10.Location = New System.Drawing.Point(338, 193)
         Me.gb10.Name = "gb10"
-        Me.gb10.Size = New System.Drawing.Size(160, 120)
+        Me.gb10.Size = New System.Drawing.Size(160, 117)
         Me.gb10.TabIndex = 16
         Me.gb10.TabStop = False
         Me.gb10.Text = " "
+        '
+        'Label52
+        '
+        Me.Label52.AutoSize = True
+        Me.Label52.BackColor = System.Drawing.Color.Transparent
+        Me.Label52.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label52.Location = New System.Drawing.Point(3, 83)
+        Me.Label52.Name = "Label52"
+        Me.Label52.Size = New System.Drawing.Size(27, 17)
+        Me.Label52.TabIndex = 9
+        Me.Label52.Text = "AH"
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.BackColor = System.Drawing.Color.Transparent
+        Me.Label10.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label10.Location = New System.Drawing.Point(2, 42)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(28, 17)
+        Me.Label10.TabIndex = 6
+        Me.Label10.Text = "OC"
         '
         'd10
         '
@@ -2042,12 +2767,34 @@ Partial Class StartForm
         Me.gb9.Controls.Add(Me.d9)
         Me.gb9.Controls.Add(Me.ah9)
         Me.gb9.Controls.Add(Me.oc9)
-        Me.gb9.Location = New System.Drawing.Point(171, 197)
+        Me.gb9.Location = New System.Drawing.Point(171, 193)
         Me.gb9.Name = "gb9"
-        Me.gb9.Size = New System.Drawing.Size(160, 120)
+        Me.gb9.Size = New System.Drawing.Size(160, 117)
         Me.gb9.TabIndex = 15
         Me.gb9.TabStop = False
         Me.gb9.Text = " "
+        '
+        'Label51
+        '
+        Me.Label51.AutoSize = True
+        Me.Label51.BackColor = System.Drawing.Color.Transparent
+        Me.Label51.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label51.Location = New System.Drawing.Point(3, 83)
+        Me.Label51.Name = "Label51"
+        Me.Label51.Size = New System.Drawing.Size(27, 17)
+        Me.Label51.TabIndex = 9
+        Me.Label51.Text = "AH"
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.BackColor = System.Drawing.Color.Transparent
+        Me.Label9.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label9.Location = New System.Drawing.Point(2, 42)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(28, 17)
+        Me.Label9.TabIndex = 6
+        Me.Label9.Text = "OC"
         '
         'd9
         '
@@ -2088,12 +2835,34 @@ Partial Class StartForm
         Me.gb8.Controls.Add(Me.d8)
         Me.gb8.Controls.Add(Me.ah8)
         Me.gb8.Controls.Add(Me.oc8)
-        Me.gb8.Location = New System.Drawing.Point(4, 197)
+        Me.gb8.Location = New System.Drawing.Point(4, 193)
         Me.gb8.Name = "gb8"
-        Me.gb8.Size = New System.Drawing.Size(160, 120)
+        Me.gb8.Size = New System.Drawing.Size(160, 117)
         Me.gb8.TabIndex = 14
         Me.gb8.TabStop = False
         Me.gb8.Text = " "
+        '
+        'Label50
+        '
+        Me.Label50.AutoSize = True
+        Me.Label50.BackColor = System.Drawing.Color.Transparent
+        Me.Label50.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label50.Location = New System.Drawing.Point(2, 83)
+        Me.Label50.Name = "Label50"
+        Me.Label50.Size = New System.Drawing.Size(27, 17)
+        Me.Label50.TabIndex = 9
+        Me.Label50.Text = "AH"
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.BackColor = System.Drawing.Color.Transparent
+        Me.Label8.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label8.Location = New System.Drawing.Point(2, 42)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(28, 17)
+        Me.Label8.TabIndex = 6
+        Me.Label8.Text = "OC"
         '
         'd8
         '
@@ -2134,12 +2903,34 @@ Partial Class StartForm
         Me.gb7.Controls.Add(Me.d7)
         Me.gb7.Controls.Add(Me.ah7)
         Me.gb7.Controls.Add(Me.oc7)
-        Me.gb7.Location = New System.Drawing.Point(1004, 70)
+        Me.gb7.Location = New System.Drawing.Point(1004, 69)
         Me.gb7.Name = "gb7"
-        Me.gb7.Size = New System.Drawing.Size(161, 120)
+        Me.gb7.Size = New System.Drawing.Size(161, 117)
         Me.gb7.TabIndex = 13
         Me.gb7.TabStop = False
         Me.gb7.Text = " "
+        '
+        'Label49
+        '
+        Me.Label49.AutoSize = True
+        Me.Label49.BackColor = System.Drawing.Color.Transparent
+        Me.Label49.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label49.Location = New System.Drawing.Point(6, 83)
+        Me.Label49.Name = "Label49"
+        Me.Label49.Size = New System.Drawing.Size(27, 17)
+        Me.Label49.TabIndex = 9
+        Me.Label49.Text = "AH"
+        '
+        'Label7
+        '
+        Me.Label7.AutoSize = True
+        Me.Label7.BackColor = System.Drawing.Color.Transparent
+        Me.Label7.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label7.Location = New System.Drawing.Point(2, 44)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(28, 17)
+        Me.Label7.TabIndex = 6
+        Me.Label7.Text = "OC"
         '
         'd7
         '
@@ -2180,12 +2971,34 @@ Partial Class StartForm
         Me.gb6.Controls.Add(Me.d6)
         Me.gb6.Controls.Add(Me.ah6)
         Me.gb6.Controls.Add(Me.oc6)
-        Me.gb6.Location = New System.Drawing.Point(837, 70)
+        Me.gb6.Location = New System.Drawing.Point(837, 69)
         Me.gb6.Name = "gb6"
-        Me.gb6.Size = New System.Drawing.Size(160, 120)
+        Me.gb6.Size = New System.Drawing.Size(160, 117)
         Me.gb6.TabIndex = 12
         Me.gb6.TabStop = False
         Me.gb6.Text = " "
+        '
+        'Label48
+        '
+        Me.Label48.AutoSize = True
+        Me.Label48.BackColor = System.Drawing.Color.Transparent
+        Me.Label48.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label48.Location = New System.Drawing.Point(3, 83)
+        Me.Label48.Name = "Label48"
+        Me.Label48.Size = New System.Drawing.Size(27, 17)
+        Me.Label48.TabIndex = 9
+        Me.Label48.Text = "AH"
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.BackColor = System.Drawing.Color.Transparent
+        Me.Label6.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label6.Location = New System.Drawing.Point(6, 42)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(28, 17)
+        Me.Label6.TabIndex = 6
+        Me.Label6.Text = "OC"
         '
         'd6
         '
@@ -2226,12 +3039,34 @@ Partial Class StartForm
         Me.gb5.Controls.Add(Me.d5)
         Me.gb5.Controls.Add(Me.ah5)
         Me.gb5.Controls.Add(Me.oc5)
-        Me.gb5.Location = New System.Drawing.Point(672, 70)
+        Me.gb5.Location = New System.Drawing.Point(672, 69)
         Me.gb5.Name = "gb5"
-        Me.gb5.Size = New System.Drawing.Size(158, 120)
+        Me.gb5.Size = New System.Drawing.Size(158, 117)
         Me.gb5.TabIndex = 11
         Me.gb5.TabStop = False
         Me.gb5.Text = " "
+        '
+        'Label47
+        '
+        Me.Label47.AutoSize = True
+        Me.Label47.BackColor = System.Drawing.Color.Transparent
+        Me.Label47.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label47.Location = New System.Drawing.Point(3, 83)
+        Me.Label47.Name = "Label47"
+        Me.Label47.Size = New System.Drawing.Size(27, 17)
+        Me.Label47.TabIndex = 9
+        Me.Label47.Text = "AH"
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.BackColor = System.Drawing.Color.Transparent
+        Me.Label5.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label5.Location = New System.Drawing.Point(2, 42)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(28, 17)
+        Me.Label5.TabIndex = 6
+        Me.Label5.Text = "OC"
         '
         'd5
         '
@@ -2272,12 +3107,34 @@ Partial Class StartForm
         Me.gb4.Controls.Add(Me.d4)
         Me.gb4.Controls.Add(Me.ah4)
         Me.gb4.Controls.Add(Me.oc4)
-        Me.gb4.Location = New System.Drawing.Point(505, 70)
+        Me.gb4.Location = New System.Drawing.Point(505, 69)
         Me.gb4.Name = "gb4"
-        Me.gb4.Size = New System.Drawing.Size(160, 120)
+        Me.gb4.Size = New System.Drawing.Size(160, 117)
         Me.gb4.TabIndex = 10
         Me.gb4.TabStop = False
         Me.gb4.Text = " "
+        '
+        'Label46
+        '
+        Me.Label46.AutoSize = True
+        Me.Label46.BackColor = System.Drawing.Color.Transparent
+        Me.Label46.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label46.Location = New System.Drawing.Point(6, 83)
+        Me.Label46.Name = "Label46"
+        Me.Label46.Size = New System.Drawing.Size(27, 17)
+        Me.Label46.TabIndex = 9
+        Me.Label46.Text = "AH"
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.BackColor = System.Drawing.Color.Transparent
+        Me.Label4.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label4.Location = New System.Drawing.Point(6, 44)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(28, 17)
+        Me.Label4.TabIndex = 5
+        Me.Label4.Text = "OC"
         '
         'd4
         '
@@ -2318,12 +3175,34 @@ Partial Class StartForm
         Me.gb3.Controls.Add(Me.d3)
         Me.gb3.Controls.Add(Me.ah3)
         Me.gb3.Controls.Add(Me.oc3)
-        Me.gb3.Location = New System.Drawing.Point(338, 70)
+        Me.gb3.Location = New System.Drawing.Point(338, 69)
         Me.gb3.Name = "gb3"
-        Me.gb3.Size = New System.Drawing.Size(160, 120)
+        Me.gb3.Size = New System.Drawing.Size(160, 117)
         Me.gb3.TabIndex = 9
         Me.gb3.TabStop = False
         Me.gb3.Text = " "
+        '
+        'Label45
+        '
+        Me.Label45.AutoSize = True
+        Me.Label45.BackColor = System.Drawing.Color.Transparent
+        Me.Label45.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label45.Location = New System.Drawing.Point(2, 83)
+        Me.Label45.Name = "Label45"
+        Me.Label45.Size = New System.Drawing.Size(27, 17)
+        Me.Label45.TabIndex = 9
+        Me.Label45.Text = "AH"
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.BackColor = System.Drawing.Color.Transparent
+        Me.Label3.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label3.Location = New System.Drawing.Point(2, 44)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(28, 17)
+        Me.Label3.TabIndex = 6
+        Me.Label3.Text = "OC"
         '
         'd3
         '
@@ -2364,12 +3243,34 @@ Partial Class StartForm
         Me.gb2.Controls.Add(Me.d2)
         Me.gb2.Controls.Add(Me.ah2)
         Me.gb2.Controls.Add(Me.oc2)
-        Me.gb2.Location = New System.Drawing.Point(171, 70)
+        Me.gb2.Location = New System.Drawing.Point(171, 69)
         Me.gb2.Name = "gb2"
-        Me.gb2.Size = New System.Drawing.Size(160, 120)
+        Me.gb2.Size = New System.Drawing.Size(160, 117)
         Me.gb2.TabIndex = 8
         Me.gb2.TabStop = False
         Me.gb2.Text = " "
+        '
+        'Label44
+        '
+        Me.Label44.AutoSize = True
+        Me.Label44.BackColor = System.Drawing.Color.Transparent
+        Me.Label44.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label44.Location = New System.Drawing.Point(3, 83)
+        Me.Label44.Name = "Label44"
+        Me.Label44.Size = New System.Drawing.Size(27, 17)
+        Me.Label44.TabIndex = 9
+        Me.Label44.Text = "AH"
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.BackColor = System.Drawing.Color.Transparent
+        Me.Label2.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label2.Location = New System.Drawing.Point(2, 42)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(28, 17)
+        Me.Label2.TabIndex = 6
+        Me.Label2.Text = "OC"
         '
         'd2
         '
@@ -2501,12 +3402,34 @@ Partial Class StartForm
         Me.gb1.Controls.Add(Me.d1)
         Me.gb1.Controls.Add(Me.ah1)
         Me.gb1.Controls.Add(Me.oc1)
-        Me.gb1.Location = New System.Drawing.Point(4, 70)
+        Me.gb1.Location = New System.Drawing.Point(4, 69)
         Me.gb1.Name = "gb1"
-        Me.gb1.Size = New System.Drawing.Size(160, 120)
+        Me.gb1.Size = New System.Drawing.Size(160, 117)
         Me.gb1.TabIndex = 7
         Me.gb1.TabStop = False
         Me.gb1.Text = " "
+        '
+        'Label43
+        '
+        Me.Label43.AutoSize = True
+        Me.Label43.BackColor = System.Drawing.Color.Transparent
+        Me.Label43.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label43.Location = New System.Drawing.Point(2, 83)
+        Me.Label43.Name = "Label43"
+        Me.Label43.Size = New System.Drawing.Size(27, 17)
+        Me.Label43.TabIndex = 8
+        Me.Label43.Text = "AH"
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.BackColor = System.Drawing.Color.Transparent
+        Me.Label1.ForeColor = System.Drawing.Color.PaleTurquoise
+        Me.Label1.Location = New System.Drawing.Point(2, 42)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(28, 17)
+        Me.Label1.TabIndex = 6
+        Me.Label1.Text = "OC"
         '
         'd1
         '
@@ -2541,7 +3464,7 @@ Partial Class StartForm
         '
         Me.monthLabel.AutoSize = True
         Me.monthLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.monthLabel.Location = New System.Drawing.Point(486, 42)
+        Me.monthLabel.Location = New System.Drawing.Point(487, 31)
         Me.monthLabel.Name = "monthLabel"
         Me.monthLabel.Size = New System.Drawing.Size(216, 32)
         Me.monthLabel.TabIndex = 2
@@ -2549,946 +3472,24 @@ Partial Class StartForm
         '
         'saveChangesButton
         '
-        Me.saveChangesButton.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
-            Or System.Windows.Forms.AnchorStyles.Left) _
-            Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.saveChangesButton.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.saveChangesButton.Location = New System.Drawing.Point(349, 941)
+        Me.saveChangesButton.Location = New System.Drawing.Point(356, 888)
         Me.saveChangesButton.Name = "saveChangesButton"
         Me.saveChangesButton.Size = New System.Drawing.Size(492, 55)
         Me.saveChangesButton.TabIndex = 3
         Me.saveChangesButton.Text = "Save Changes"
         Me.saveChangesButton.UseVisualStyleBackColor = True
         '
-        'Label1
+        'PrintDialog1
         '
-        Me.Label1.AutoSize = True
-        Me.Label1.BackColor = System.Drawing.Color.Transparent
-        Me.Label1.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label1.Location = New System.Drawing.Point(2, 42)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(28, 17)
-        Me.Label1.TabIndex = 6
-        Me.Label1.Text = "OC"
-        '
-        'Label2
-        '
-        Me.Label2.AutoSize = True
-        Me.Label2.BackColor = System.Drawing.Color.Transparent
-        Me.Label2.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label2.Location = New System.Drawing.Point(2, 42)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(28, 17)
-        Me.Label2.TabIndex = 6
-        Me.Label2.Text = "OC"
-        '
-        'Label3
-        '
-        Me.Label3.AutoSize = True
-        Me.Label3.BackColor = System.Drawing.Color.Transparent
-        Me.Label3.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label3.Location = New System.Drawing.Point(2, 44)
-        Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(28, 17)
-        Me.Label3.TabIndex = 6
-        Me.Label3.Text = "OC"
-        '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.BackColor = System.Drawing.Color.Transparent
-        Me.Label4.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label4.Location = New System.Drawing.Point(6, 44)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(28, 17)
-        Me.Label4.TabIndex = 5
-        Me.Label4.Text = "OC"
-        '
-        'Label5
-        '
-        Me.Label5.AutoSize = True
-        Me.Label5.BackColor = System.Drawing.Color.Transparent
-        Me.Label5.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label5.Location = New System.Drawing.Point(2, 42)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(28, 17)
-        Me.Label5.TabIndex = 6
-        Me.Label5.Text = "OC"
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.BackColor = System.Drawing.Color.Transparent
-        Me.Label6.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label6.Location = New System.Drawing.Point(6, 42)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(28, 17)
-        Me.Label6.TabIndex = 6
-        Me.Label6.Text = "OC"
-        '
-        'Label7
-        '
-        Me.Label7.AutoSize = True
-        Me.Label7.BackColor = System.Drawing.Color.Transparent
-        Me.Label7.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label7.Location = New System.Drawing.Point(2, 44)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(28, 17)
-        Me.Label7.TabIndex = 6
-        Me.Label7.Text = "OC"
-        '
-        'Label8
-        '
-        Me.Label8.AutoSize = True
-        Me.Label8.BackColor = System.Drawing.Color.Transparent
-        Me.Label8.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label8.Location = New System.Drawing.Point(2, 42)
-        Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(28, 17)
-        Me.Label8.TabIndex = 6
-        Me.Label8.Text = "OC"
-        '
-        'Label9
-        '
-        Me.Label9.AutoSize = True
-        Me.Label9.BackColor = System.Drawing.Color.Transparent
-        Me.Label9.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label9.Location = New System.Drawing.Point(2, 42)
-        Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(28, 17)
-        Me.Label9.TabIndex = 6
-        Me.Label9.Text = "OC"
-        '
-        'Label10
-        '
-        Me.Label10.AutoSize = True
-        Me.Label10.BackColor = System.Drawing.Color.Transparent
-        Me.Label10.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label10.Location = New System.Drawing.Point(2, 42)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(28, 17)
-        Me.Label10.TabIndex = 6
-        Me.Label10.Text = "OC"
-        '
-        'Label11
-        '
-        Me.Label11.AutoSize = True
-        Me.Label11.BackColor = System.Drawing.Color.Transparent
-        Me.Label11.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label11.Location = New System.Drawing.Point(6, 42)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(28, 17)
-        Me.Label11.TabIndex = 6
-        Me.Label11.Text = "OC"
-        '
-        'Label12
-        '
-        Me.Label12.AutoSize = True
-        Me.Label12.BackColor = System.Drawing.Color.Transparent
-        Me.Label12.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label12.Location = New System.Drawing.Point(2, 42)
-        Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(28, 17)
-        Me.Label12.TabIndex = 6
-        Me.Label12.Text = "OC"
-        '
-        'Label13
-        '
-        Me.Label13.AutoSize = True
-        Me.Label13.BackColor = System.Drawing.Color.Transparent
-        Me.Label13.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label13.Location = New System.Drawing.Point(6, 42)
-        Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(28, 17)
-        Me.Label13.TabIndex = 6
-        Me.Label13.Text = "OC"
-        '
-        'Label14
-        '
-        Me.Label14.AutoSize = True
-        Me.Label14.BackColor = System.Drawing.Color.Transparent
-        Me.Label14.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label14.Location = New System.Drawing.Point(6, 42)
-        Me.Label14.Name = "Label14"
-        Me.Label14.Size = New System.Drawing.Size(28, 17)
-        Me.Label14.TabIndex = 6
-        Me.Label14.Text = "OC"
-        '
-        'Label15
-        '
-        Me.Label15.AutoSize = True
-        Me.Label15.BackColor = System.Drawing.Color.Transparent
-        Me.Label15.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label15.Location = New System.Drawing.Point(2, 42)
-        Me.Label15.Name = "Label15"
-        Me.Label15.Size = New System.Drawing.Size(28, 17)
-        Me.Label15.TabIndex = 6
-        Me.Label15.Text = "OC"
-        '
-        'Label16
-        '
-        Me.Label16.AutoSize = True
-        Me.Label16.BackColor = System.Drawing.Color.Transparent
-        Me.Label16.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label16.Location = New System.Drawing.Point(2, 42)
-        Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(28, 17)
-        Me.Label16.TabIndex = 7
-        Me.Label16.Text = "OC"
-        '
-        'Label17
-        '
-        Me.Label17.AutoSize = True
-        Me.Label17.BackColor = System.Drawing.Color.Transparent
-        Me.Label17.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label17.Location = New System.Drawing.Point(2, 42)
-        Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(28, 17)
-        Me.Label17.TabIndex = 7
-        Me.Label17.Text = "OC"
-        '
-        'Label18
-        '
-        Me.Label18.AutoSize = True
-        Me.Label18.BackColor = System.Drawing.Color.Transparent
-        Me.Label18.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label18.Location = New System.Drawing.Point(2, 42)
-        Me.Label18.Name = "Label18"
-        Me.Label18.Size = New System.Drawing.Size(28, 17)
-        Me.Label18.TabIndex = 7
-        Me.Label18.Text = "OC"
-        '
-        'Label19
-        '
-        Me.Label19.AutoSize = True
-        Me.Label19.BackColor = System.Drawing.Color.Transparent
-        Me.Label19.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label19.Location = New System.Drawing.Point(2, 42)
-        Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(28, 17)
-        Me.Label19.TabIndex = 7
-        Me.Label19.Text = "OC"
-        '
-        'Label20
-        '
-        Me.Label20.AutoSize = True
-        Me.Label20.BackColor = System.Drawing.Color.Transparent
-        Me.Label20.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label20.Location = New System.Drawing.Point(2, 42)
-        Me.Label20.Name = "Label20"
-        Me.Label20.Size = New System.Drawing.Size(28, 17)
-        Me.Label20.TabIndex = 7
-        Me.Label20.Text = "OC"
-        '
-        'Label21
-        '
-        Me.Label21.AutoSize = True
-        Me.Label21.BackColor = System.Drawing.Color.Transparent
-        Me.Label21.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label21.Location = New System.Drawing.Point(2, 42)
-        Me.Label21.Name = "Label21"
-        Me.Label21.Size = New System.Drawing.Size(28, 17)
-        Me.Label21.TabIndex = 7
-        Me.Label21.Text = "OC"
-        '
-        'Label22
-        '
-        Me.Label22.AutoSize = True
-        Me.Label22.BackColor = System.Drawing.Color.Transparent
-        Me.Label22.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label22.Location = New System.Drawing.Point(2, 42)
-        Me.Label22.Name = "Label22"
-        Me.Label22.Size = New System.Drawing.Size(28, 17)
-        Me.Label22.TabIndex = 8
-        Me.Label22.Text = "OC"
-        '
-        'Label23
-        '
-        Me.Label23.AutoSize = True
-        Me.Label23.BackColor = System.Drawing.Color.Transparent
-        Me.Label23.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label23.Location = New System.Drawing.Point(2, 42)
-        Me.Label23.Name = "Label23"
-        Me.Label23.Size = New System.Drawing.Size(28, 17)
-        Me.Label23.TabIndex = 8
-        Me.Label23.Text = "OC"
-        '
-        'Label24
-        '
-        Me.Label24.AutoSize = True
-        Me.Label24.BackColor = System.Drawing.Color.Transparent
-        Me.Label24.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label24.Location = New System.Drawing.Point(2, 42)
-        Me.Label24.Name = "Label24"
-        Me.Label24.Size = New System.Drawing.Size(28, 17)
-        Me.Label24.TabIndex = 8
-        Me.Label24.Text = "OC"
-        '
-        'Label25
-        '
-        Me.Label25.AutoSize = True
-        Me.Label25.BackColor = System.Drawing.Color.Transparent
-        Me.Label25.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label25.Location = New System.Drawing.Point(2, 42)
-        Me.Label25.Name = "Label25"
-        Me.Label25.Size = New System.Drawing.Size(28, 17)
-        Me.Label25.TabIndex = 8
-        Me.Label25.Text = "OC"
-        '
-        'Label26
-        '
-        Me.Label26.AutoSize = True
-        Me.Label26.BackColor = System.Drawing.Color.Transparent
-        Me.Label26.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label26.Location = New System.Drawing.Point(2, 42)
-        Me.Label26.Name = "Label26"
-        Me.Label26.Size = New System.Drawing.Size(28, 17)
-        Me.Label26.TabIndex = 8
-        Me.Label26.Text = "OC"
-        '
-        'Label27
-        '
-        Me.Label27.AutoSize = True
-        Me.Label27.BackColor = System.Drawing.Color.Transparent
-        Me.Label27.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label27.Location = New System.Drawing.Point(2, 42)
-        Me.Label27.Name = "Label27"
-        Me.Label27.Size = New System.Drawing.Size(28, 17)
-        Me.Label27.TabIndex = 8
-        Me.Label27.Text = "OC"
-        '
-        'Label28
-        '
-        Me.Label28.AutoSize = True
-        Me.Label28.BackColor = System.Drawing.Color.Transparent
-        Me.Label28.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label28.Location = New System.Drawing.Point(2, 42)
-        Me.Label28.Name = "Label28"
-        Me.Label28.Size = New System.Drawing.Size(28, 17)
-        Me.Label28.TabIndex = 8
-        Me.Label28.Text = "OC"
-        '
-        'Label29
-        '
-        Me.Label29.AutoSize = True
-        Me.Label29.BackColor = System.Drawing.Color.Transparent
-        Me.Label29.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label29.Location = New System.Drawing.Point(2, 42)
-        Me.Label29.Name = "Label29"
-        Me.Label29.Size = New System.Drawing.Size(28, 17)
-        Me.Label29.TabIndex = 8
-        Me.Label29.Text = "OC"
-        '
-        'Label30
-        '
-        Me.Label30.AutoSize = True
-        Me.Label30.BackColor = System.Drawing.Color.Transparent
-        Me.Label30.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label30.Location = New System.Drawing.Point(2, 42)
-        Me.Label30.Name = "Label30"
-        Me.Label30.Size = New System.Drawing.Size(28, 17)
-        Me.Label30.TabIndex = 8
-        Me.Label30.Text = "OC"
-        '
-        'Label31
-        '
-        Me.Label31.AutoSize = True
-        Me.Label31.BackColor = System.Drawing.Color.Transparent
-        Me.Label31.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label31.Location = New System.Drawing.Point(2, 42)
-        Me.Label31.Name = "Label31"
-        Me.Label31.Size = New System.Drawing.Size(28, 17)
-        Me.Label31.TabIndex = 8
-        Me.Label31.Text = "OC"
-        '
-        'Label32
-        '
-        Me.Label32.AutoSize = True
-        Me.Label32.BackColor = System.Drawing.Color.Transparent
-        Me.Label32.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label32.Location = New System.Drawing.Point(2, 42)
-        Me.Label32.Name = "Label32"
-        Me.Label32.Size = New System.Drawing.Size(28, 17)
-        Me.Label32.TabIndex = 8
-        Me.Label32.Text = "OC"
-        '
-        'Label33
-        '
-        Me.Label33.AutoSize = True
-        Me.Label33.BackColor = System.Drawing.Color.Transparent
-        Me.Label33.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label33.Location = New System.Drawing.Point(2, 42)
-        Me.Label33.Name = "Label33"
-        Me.Label33.Size = New System.Drawing.Size(28, 17)
-        Me.Label33.TabIndex = 8
-        Me.Label33.Text = "OC"
-        '
-        'Label34
-        '
-        Me.Label34.AutoSize = True
-        Me.Label34.BackColor = System.Drawing.Color.Transparent
-        Me.Label34.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label34.Location = New System.Drawing.Point(2, 42)
-        Me.Label34.Name = "Label34"
-        Me.Label34.Size = New System.Drawing.Size(28, 17)
-        Me.Label34.TabIndex = 8
-        Me.Label34.Text = "OC"
-        '
-        'Label35
-        '
-        Me.Label35.AutoSize = True
-        Me.Label35.BackColor = System.Drawing.Color.Transparent
-        Me.Label35.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label35.Location = New System.Drawing.Point(2, 42)
-        Me.Label35.Name = "Label35"
-        Me.Label35.Size = New System.Drawing.Size(28, 17)
-        Me.Label35.TabIndex = 8
-        Me.Label35.Text = "OC"
-        '
-        'Label36
-        '
-        Me.Label36.AutoSize = True
-        Me.Label36.BackColor = System.Drawing.Color.Transparent
-        Me.Label36.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label36.Location = New System.Drawing.Point(2, 45)
-        Me.Label36.Name = "Label36"
-        Me.Label36.Size = New System.Drawing.Size(28, 17)
-        Me.Label36.TabIndex = 8
-        Me.Label36.Text = "OC"
-        '
-        'Label37
-        '
-        Me.Label37.AutoSize = True
-        Me.Label37.BackColor = System.Drawing.Color.Transparent
-        Me.Label37.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label37.Location = New System.Drawing.Point(2, 45)
-        Me.Label37.Name = "Label37"
-        Me.Label37.Size = New System.Drawing.Size(28, 17)
-        Me.Label37.TabIndex = 8
-        Me.Label37.Text = "OC"
-        '
-        'Label38
-        '
-        Me.Label38.AutoSize = True
-        Me.Label38.BackColor = System.Drawing.Color.Transparent
-        Me.Label38.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label38.Location = New System.Drawing.Point(2, 45)
-        Me.Label38.Name = "Label38"
-        Me.Label38.Size = New System.Drawing.Size(28, 17)
-        Me.Label38.TabIndex = 8
-        Me.Label38.Text = "OC"
-        '
-        'Label39
-        '
-        Me.Label39.AutoSize = True
-        Me.Label39.BackColor = System.Drawing.Color.Transparent
-        Me.Label39.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label39.Location = New System.Drawing.Point(2, 45)
-        Me.Label39.Name = "Label39"
-        Me.Label39.Size = New System.Drawing.Size(28, 17)
-        Me.Label39.TabIndex = 8
-        Me.Label39.Text = "OC"
-        '
-        'Label40
-        '
-        Me.Label40.AutoSize = True
-        Me.Label40.BackColor = System.Drawing.Color.Transparent
-        Me.Label40.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label40.Location = New System.Drawing.Point(2, 45)
-        Me.Label40.Name = "Label40"
-        Me.Label40.Size = New System.Drawing.Size(28, 17)
-        Me.Label40.TabIndex = 8
-        Me.Label40.Text = "OC"
-        '
-        'Label41
-        '
-        Me.Label41.AutoSize = True
-        Me.Label41.BackColor = System.Drawing.Color.Transparent
-        Me.Label41.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label41.Location = New System.Drawing.Point(2, 45)
-        Me.Label41.Name = "Label41"
-        Me.Label41.Size = New System.Drawing.Size(28, 17)
-        Me.Label41.TabIndex = 8
-        Me.Label41.Text = "OC"
-        '
-        'Label42
-        '
-        Me.Label42.AutoSize = True
-        Me.Label42.BackColor = System.Drawing.Color.Transparent
-        Me.Label42.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label42.Location = New System.Drawing.Point(2, 45)
-        Me.Label42.Name = "Label42"
-        Me.Label42.Size = New System.Drawing.Size(28, 17)
-        Me.Label42.TabIndex = 8
-        Me.Label42.Text = "OC"
-        '
-        'Label43
-        '
-        Me.Label43.AutoSize = True
-        Me.Label43.BackColor = System.Drawing.Color.Transparent
-        Me.Label43.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label43.Location = New System.Drawing.Point(2, 83)
-        Me.Label43.Name = "Label43"
-        Me.Label43.Size = New System.Drawing.Size(27, 17)
-        Me.Label43.TabIndex = 8
-        Me.Label43.Text = "AH"
-        '
-        'Label44
-        '
-        Me.Label44.AutoSize = True
-        Me.Label44.BackColor = System.Drawing.Color.Transparent
-        Me.Label44.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label44.Location = New System.Drawing.Point(3, 83)
-        Me.Label44.Name = "Label44"
-        Me.Label44.Size = New System.Drawing.Size(27, 17)
-        Me.Label44.TabIndex = 9
-        Me.Label44.Text = "AH"
-        '
-        'Label45
-        '
-        Me.Label45.AutoSize = True
-        Me.Label45.BackColor = System.Drawing.Color.Transparent
-        Me.Label45.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label45.Location = New System.Drawing.Point(2, 83)
-        Me.Label45.Name = "Label45"
-        Me.Label45.Size = New System.Drawing.Size(27, 17)
-        Me.Label45.TabIndex = 9
-        Me.Label45.Text = "AH"
-        '
-        'Label46
-        '
-        Me.Label46.AutoSize = True
-        Me.Label46.BackColor = System.Drawing.Color.Transparent
-        Me.Label46.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label46.Location = New System.Drawing.Point(6, 83)
-        Me.Label46.Name = "Label46"
-        Me.Label46.Size = New System.Drawing.Size(27, 17)
-        Me.Label46.TabIndex = 9
-        Me.Label46.Text = "AH"
-        '
-        'Label47
-        '
-        Me.Label47.AutoSize = True
-        Me.Label47.BackColor = System.Drawing.Color.Transparent
-        Me.Label47.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label47.Location = New System.Drawing.Point(3, 83)
-        Me.Label47.Name = "Label47"
-        Me.Label47.Size = New System.Drawing.Size(27, 17)
-        Me.Label47.TabIndex = 9
-        Me.Label47.Text = "AH"
-        '
-        'Label48
-        '
-        Me.Label48.AutoSize = True
-        Me.Label48.BackColor = System.Drawing.Color.Transparent
-        Me.Label48.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label48.Location = New System.Drawing.Point(3, 83)
-        Me.Label48.Name = "Label48"
-        Me.Label48.Size = New System.Drawing.Size(27, 17)
-        Me.Label48.TabIndex = 9
-        Me.Label48.Text = "AH"
-        '
-        'Label49
-        '
-        Me.Label49.AutoSize = True
-        Me.Label49.BackColor = System.Drawing.Color.Transparent
-        Me.Label49.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label49.Location = New System.Drawing.Point(6, 83)
-        Me.Label49.Name = "Label49"
-        Me.Label49.Size = New System.Drawing.Size(27, 17)
-        Me.Label49.TabIndex = 9
-        Me.Label49.Text = "AH"
-        '
-        'Label50
-        '
-        Me.Label50.AutoSize = True
-        Me.Label50.BackColor = System.Drawing.Color.Transparent
-        Me.Label50.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label50.Location = New System.Drawing.Point(2, 83)
-        Me.Label50.Name = "Label50"
-        Me.Label50.Size = New System.Drawing.Size(27, 17)
-        Me.Label50.TabIndex = 9
-        Me.Label50.Text = "AH"
-        '
-        'Label51
-        '
-        Me.Label51.AutoSize = True
-        Me.Label51.BackColor = System.Drawing.Color.Transparent
-        Me.Label51.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label51.Location = New System.Drawing.Point(3, 83)
-        Me.Label51.Name = "Label51"
-        Me.Label51.Size = New System.Drawing.Size(27, 17)
-        Me.Label51.TabIndex = 9
-        Me.Label51.Text = "AH"
-        '
-        'Label52
-        '
-        Me.Label52.AutoSize = True
-        Me.Label52.BackColor = System.Drawing.Color.Transparent
-        Me.Label52.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label52.Location = New System.Drawing.Point(3, 83)
-        Me.Label52.Name = "Label52"
-        Me.Label52.Size = New System.Drawing.Size(27, 17)
-        Me.Label52.TabIndex = 9
-        Me.Label52.Text = "AH"
-        '
-        'Label53
-        '
-        Me.Label53.AutoSize = True
-        Me.Label53.BackColor = System.Drawing.Color.Transparent
-        Me.Label53.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label53.Location = New System.Drawing.Point(6, 83)
-        Me.Label53.Name = "Label53"
-        Me.Label53.Size = New System.Drawing.Size(27, 17)
-        Me.Label53.TabIndex = 9
-        Me.Label53.Text = "AH"
-        '
-        'Label54
-        '
-        Me.Label54.AutoSize = True
-        Me.Label54.BackColor = System.Drawing.Color.Transparent
-        Me.Label54.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label54.Location = New System.Drawing.Point(2, 83)
-        Me.Label54.Name = "Label54"
-        Me.Label54.Size = New System.Drawing.Size(27, 17)
-        Me.Label54.TabIndex = 9
-        Me.Label54.Text = "AH"
-        '
-        'Label55
-        '
-        Me.Label55.AutoSize = True
-        Me.Label55.BackColor = System.Drawing.Color.Transparent
-        Me.Label55.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label55.Location = New System.Drawing.Point(3, 83)
-        Me.Label55.Name = "Label55"
-        Me.Label55.Size = New System.Drawing.Size(27, 17)
-        Me.Label55.TabIndex = 9
-        Me.Label55.Text = "AH"
-        '
-        'Label56
-        '
-        Me.Label56.AutoSize = True
-        Me.Label56.BackColor = System.Drawing.Color.Transparent
-        Me.Label56.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label56.Location = New System.Drawing.Point(6, 83)
-        Me.Label56.Name = "Label56"
-        Me.Label56.Size = New System.Drawing.Size(27, 17)
-        Me.Label56.TabIndex = 9
-        Me.Label56.Text = "AH"
-        '
-        'Label57
-        '
-        Me.Label57.AutoSize = True
-        Me.Label57.BackColor = System.Drawing.Color.Transparent
-        Me.Label57.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label57.Location = New System.Drawing.Point(2, 83)
-        Me.Label57.Name = "Label57"
-        Me.Label57.Size = New System.Drawing.Size(27, 17)
-        Me.Label57.TabIndex = 9
-        Me.Label57.Text = "AH"
-        '
-        'Label58
-        '
-        Me.Label58.AutoSize = True
-        Me.Label58.BackColor = System.Drawing.Color.Transparent
-        Me.Label58.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label58.Location = New System.Drawing.Point(2, 83)
-        Me.Label58.Name = "Label58"
-        Me.Label58.Size = New System.Drawing.Size(27, 17)
-        Me.Label58.TabIndex = 9
-        Me.Label58.Text = "AH"
-        '
-        'Label59
-        '
-        Me.Label59.AutoSize = True
-        Me.Label59.BackColor = System.Drawing.Color.Transparent
-        Me.Label59.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label59.Location = New System.Drawing.Point(3, 83)
-        Me.Label59.Name = "Label59"
-        Me.Label59.Size = New System.Drawing.Size(27, 17)
-        Me.Label59.TabIndex = 9
-        Me.Label59.Text = "AH"
-        '
-        'Label60
-        '
-        Me.Label60.AutoSize = True
-        Me.Label60.BackColor = System.Drawing.Color.Transparent
-        Me.Label60.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label60.Location = New System.Drawing.Point(3, 83)
-        Me.Label60.Name = "Label60"
-        Me.Label60.Size = New System.Drawing.Size(27, 17)
-        Me.Label60.TabIndex = 9
-        Me.Label60.Text = "AH"
-        '
-        'Label61
-        '
-        Me.Label61.AutoSize = True
-        Me.Label61.BackColor = System.Drawing.Color.Transparent
-        Me.Label61.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label61.Location = New System.Drawing.Point(3, 83)
-        Me.Label61.Name = "Label61"
-        Me.Label61.Size = New System.Drawing.Size(27, 17)
-        Me.Label61.TabIndex = 9
-        Me.Label61.Text = "AH"
-        '
-        'Label62
-        '
-        Me.Label62.AutoSize = True
-        Me.Label62.BackColor = System.Drawing.Color.Transparent
-        Me.Label62.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label62.Location = New System.Drawing.Point(3, 83)
-        Me.Label62.Name = "Label62"
-        Me.Label62.Size = New System.Drawing.Size(27, 17)
-        Me.Label62.TabIndex = 9
-        Me.Label62.Text = "AH"
-        '
-        'Label63
-        '
-        Me.Label63.AutoSize = True
-        Me.Label63.BackColor = System.Drawing.Color.Transparent
-        Me.Label63.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label63.Location = New System.Drawing.Point(1, 83)
-        Me.Label63.Name = "Label63"
-        Me.Label63.Size = New System.Drawing.Size(27, 17)
-        Me.Label63.TabIndex = 9
-        Me.Label63.Text = "AH"
-        '
-        'Label64
-        '
-        Me.Label64.AutoSize = True
-        Me.Label64.BackColor = System.Drawing.Color.Transparent
-        Me.Label64.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label64.Location = New System.Drawing.Point(3, 83)
-        Me.Label64.Name = "Label64"
-        Me.Label64.Size = New System.Drawing.Size(27, 17)
-        Me.Label64.TabIndex = 9
-        Me.Label64.Text = "AH"
-        '
-        'Label65
-        '
-        Me.Label65.AutoSize = True
-        Me.Label65.BackColor = System.Drawing.Color.Transparent
-        Me.Label65.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label65.Location = New System.Drawing.Point(3, 83)
-        Me.Label65.Name = "Label65"
-        Me.Label65.Size = New System.Drawing.Size(27, 17)
-        Me.Label65.TabIndex = 9
-        Me.Label65.Text = "AH"
-        '
-        'Label66
-        '
-        Me.Label66.AutoSize = True
-        Me.Label66.BackColor = System.Drawing.Color.Transparent
-        Me.Label66.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label66.Location = New System.Drawing.Point(3, 83)
-        Me.Label66.Name = "Label66"
-        Me.Label66.Size = New System.Drawing.Size(27, 17)
-        Me.Label66.TabIndex = 9
-        Me.Label66.Text = "AH"
-        '
-        'Label67
-        '
-        Me.Label67.AutoSize = True
-        Me.Label67.BackColor = System.Drawing.Color.Transparent
-        Me.Label67.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label67.Location = New System.Drawing.Point(3, 83)
-        Me.Label67.Name = "Label67"
-        Me.Label67.Size = New System.Drawing.Size(27, 17)
-        Me.Label67.TabIndex = 9
-        Me.Label67.Text = "AH"
-        '
-        'Label68
-        '
-        Me.Label68.AutoSize = True
-        Me.Label68.BackColor = System.Drawing.Color.Transparent
-        Me.Label68.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label68.Location = New System.Drawing.Point(3, 83)
-        Me.Label68.Name = "Label68"
-        Me.Label68.Size = New System.Drawing.Size(27, 17)
-        Me.Label68.TabIndex = 9
-        Me.Label68.Text = "AH"
-        '
-        'Label69
-        '
-        Me.Label69.AutoSize = True
-        Me.Label69.BackColor = System.Drawing.Color.Transparent
-        Me.Label69.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label69.Location = New System.Drawing.Point(3, 83)
-        Me.Label69.Name = "Label69"
-        Me.Label69.Size = New System.Drawing.Size(27, 17)
-        Me.Label69.TabIndex = 9
-        Me.Label69.Text = "AH"
-        '
-        'Label70
-        '
-        Me.Label70.AutoSize = True
-        Me.Label70.BackColor = System.Drawing.Color.Transparent
-        Me.Label70.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label70.Location = New System.Drawing.Point(3, 83)
-        Me.Label70.Name = "Label70"
-        Me.Label70.Size = New System.Drawing.Size(27, 17)
-        Me.Label70.TabIndex = 9
-        Me.Label70.Text = "AH"
-        '
-        'Label71
-        '
-        Me.Label71.AutoSize = True
-        Me.Label71.BackColor = System.Drawing.Color.Transparent
-        Me.Label71.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label71.Location = New System.Drawing.Point(3, 83)
-        Me.Label71.Name = "Label71"
-        Me.Label71.Size = New System.Drawing.Size(27, 17)
-        Me.Label71.TabIndex = 9
-        Me.Label71.Text = "AH"
-        '
-        'Label72
-        '
-        Me.Label72.AutoSize = True
-        Me.Label72.BackColor = System.Drawing.Color.Transparent
-        Me.Label72.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label72.Location = New System.Drawing.Point(2, 83)
-        Me.Label72.Name = "Label72"
-        Me.Label72.Size = New System.Drawing.Size(27, 17)
-        Me.Label72.TabIndex = 9
-        Me.Label72.Text = "AH"
-        '
-        'Label73
-        '
-        Me.Label73.AutoSize = True
-        Me.Label73.BackColor = System.Drawing.Color.Transparent
-        Me.Label73.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label73.Location = New System.Drawing.Point(2, 83)
-        Me.Label73.Name = "Label73"
-        Me.Label73.Size = New System.Drawing.Size(27, 17)
-        Me.Label73.TabIndex = 9
-        Me.Label73.Text = "AH"
-        '
-        'Label74
-        '
-        Me.Label74.AutoSize = True
-        Me.Label74.BackColor = System.Drawing.Color.Transparent
-        Me.Label74.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label74.Location = New System.Drawing.Point(2, 83)
-        Me.Label74.Name = "Label74"
-        Me.Label74.Size = New System.Drawing.Size(27, 17)
-        Me.Label74.TabIndex = 9
-        Me.Label74.Text = "AH"
-        '
-        'Label75
-        '
-        Me.Label75.AutoSize = True
-        Me.Label75.BackColor = System.Drawing.Color.Transparent
-        Me.Label75.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label75.Location = New System.Drawing.Point(3, 83)
-        Me.Label75.Name = "Label75"
-        Me.Label75.Size = New System.Drawing.Size(27, 17)
-        Me.Label75.TabIndex = 9
-        Me.Label75.Text = "AH"
-        '
-        'Label76
-        '
-        Me.Label76.AutoSize = True
-        Me.Label76.BackColor = System.Drawing.Color.Transparent
-        Me.Label76.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label76.Location = New System.Drawing.Point(3, 83)
-        Me.Label76.Name = "Label76"
-        Me.Label76.Size = New System.Drawing.Size(27, 17)
-        Me.Label76.TabIndex = 9
-        Me.Label76.Text = "AH"
-        '
-        'Label77
-        '
-        Me.Label77.AutoSize = True
-        Me.Label77.BackColor = System.Drawing.Color.Transparent
-        Me.Label77.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label77.Location = New System.Drawing.Point(3, 83)
-        Me.Label77.Name = "Label77"
-        Me.Label77.Size = New System.Drawing.Size(27, 17)
-        Me.Label77.TabIndex = 9
-        Me.Label77.Text = "AH"
-        '
-        'Label78
-        '
-        Me.Label78.AutoSize = True
-        Me.Label78.BackColor = System.Drawing.Color.Transparent
-        Me.Label78.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label78.Location = New System.Drawing.Point(6, 86)
-        Me.Label78.Name = "Label78"
-        Me.Label78.Size = New System.Drawing.Size(27, 17)
-        Me.Label78.TabIndex = 9
-        Me.Label78.Text = "AH"
-        '
-        'Label79
-        '
-        Me.Label79.AutoSize = True
-        Me.Label79.BackColor = System.Drawing.Color.Transparent
-        Me.Label79.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label79.Location = New System.Drawing.Point(2, 86)
-        Me.Label79.Name = "Label79"
-        Me.Label79.Size = New System.Drawing.Size(27, 17)
-        Me.Label79.TabIndex = 9
-        Me.Label79.Text = "AH"
-        '
-        'Label80
-        '
-        Me.Label80.AutoSize = True
-        Me.Label80.BackColor = System.Drawing.Color.Transparent
-        Me.Label80.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label80.Location = New System.Drawing.Point(3, 86)
-        Me.Label80.Name = "Label80"
-        Me.Label80.Size = New System.Drawing.Size(27, 17)
-        Me.Label80.TabIndex = 9
-        Me.Label80.Text = "AH"
-        '
-        'Label81
-        '
-        Me.Label81.AutoSize = True
-        Me.Label81.BackColor = System.Drawing.Color.Transparent
-        Me.Label81.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label81.Location = New System.Drawing.Point(2, 86)
-        Me.Label81.Name = "Label81"
-        Me.Label81.Size = New System.Drawing.Size(27, 17)
-        Me.Label81.TabIndex = 9
-        Me.Label81.Text = "AH"
-        '
-        'Label82
-        '
-        Me.Label82.AutoSize = True
-        Me.Label82.BackColor = System.Drawing.Color.Transparent
-        Me.Label82.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label82.Location = New System.Drawing.Point(3, 86)
-        Me.Label82.Name = "Label82"
-        Me.Label82.Size = New System.Drawing.Size(27, 17)
-        Me.Label82.TabIndex = 9
-        Me.Label82.Text = "AH"
-        '
-        'Label83
-        '
-        Me.Label83.AutoSize = True
-        Me.Label83.BackColor = System.Drawing.Color.Transparent
-        Me.Label83.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label83.Location = New System.Drawing.Point(3, 86)
-        Me.Label83.Name = "Label83"
-        Me.Label83.Size = New System.Drawing.Size(27, 17)
-        Me.Label83.TabIndex = 9
-        Me.Label83.Text = "AH"
-        '
-        'Label84
-        '
-        Me.Label84.AutoSize = True
-        Me.Label84.BackColor = System.Drawing.Color.Transparent
-        Me.Label84.ForeColor = System.Drawing.Color.PaleTurquoise
-        Me.Label84.Location = New System.Drawing.Point(3, 86)
-        Me.Label84.Name = "Label84"
-        Me.Label84.Size = New System.Drawing.Size(27, 17)
-        Me.Label84.TabIndex = 9
-        Me.Label84.Text = "AH"
+        Me.PrintDialog1.UseEXDialog = True
         '
         'StartForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1192, 1008)
+        Me.AutoScroll = True
+        Me.ClientSize = New System.Drawing.Size(1192, 964)
         Me.Controls.Add(Me.saveChangesButton)
         Me.Controls.Add(Me.monthLabel)
         Me.Controls.Add(Me.TableLayoutPanel1)
@@ -3863,5 +3864,7 @@ Partial Class StartForm
     Friend WithEvents Label45 As System.Windows.Forms.Label
     Friend WithEvents Label44 As System.Windows.Forms.Label
     Friend WithEvents Label43 As System.Windows.Forms.Label
+    Friend WithEvents PrintDialog1 As System.Windows.Forms.PrintDialog
+    Friend WithEvents PrintDocument1 As System.Drawing.Printing.PrintDocument
 
 End Class
