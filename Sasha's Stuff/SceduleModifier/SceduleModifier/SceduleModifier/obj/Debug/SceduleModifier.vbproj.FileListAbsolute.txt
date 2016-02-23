@@ -1,0 +1,11 @@
+c:\users\sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModifier\bin\Debug\SceduleModifier.exe.config
+c:\users\sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModifier\bin\Debug\SceduleModifier.exe
+c:\users\sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModifier\bin\Debug\SceduleModifier.pdb
+c:\users\sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModifier\bin\Debug\SceduleModifier.xml
+c:\users\sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModifier\obj\Debug\SceduleModifier.Editor.resources
+c:\users\sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModifier\obj\Debug\SceduleModifier.Resources.resources
+c:\users\sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModifier\obj\Debug\SceduleModifier.vbproj.GenerateResource.Cache
+c:\users\sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModifier\obj\Debug\SceduleModifier.exe
+c:\users\sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModifier\obj\Debug\SceduleModifier.xml
+c:\users\sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModifier\obj\Debug\SceduleModifier.pdb
+C:\Users\Sasha\documents\visual studio 2013\Projects\SceduleModifier\SceduleModifier\obj\Debug\SceduleModifier.vbprojResolveAssemblyReference.cache
