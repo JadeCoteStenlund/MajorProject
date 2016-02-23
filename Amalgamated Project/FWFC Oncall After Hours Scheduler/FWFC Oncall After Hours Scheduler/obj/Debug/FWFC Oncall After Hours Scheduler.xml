@@ -1,0 +1,308 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FWFCOncallAfterHoursScheduler
+</name>
+</assembly>
+<members>
+<member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.EmployeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.PreviousDaysOffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.ScheduleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.SpecialDatesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.UnavailableDaysDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.getHolidaysByYearDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.getMaxEmployeeIDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.getWeekendsByYearDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.getWorkByYearDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.minDaysWorkedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.minHolidaysWorkedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.minWeekendsWorkedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.EmployeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.PreviousDaysOffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.ScheduleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.SpecialDatesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.UnavailableDaysRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.getHolidaysByYearRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.getMaxEmployeeIDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.getWeekendsByYearRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.getWorkByYearRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.minDaysWorkedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.minHolidaysWorkedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.minWeekendsWorkedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.EmployeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.PreviousDaysOffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.ScheduleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.SpecialDatesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.UnavailableDaysRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.getHolidaysByYearRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.getMaxEmployeeIDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.getWeekendsByYearRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.getWorkByYearRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.minDaysWorkedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.minHolidaysWorkedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet.minWeekendsWorkedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.EmployeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.PreviousDaysOffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.ScheduleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.SpecialDatesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.UnavailableDaysTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.getHolidaysByYearTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.getMaxEmployeeIDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.getWeekendsByYearTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.getWorkByYearTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.minDaysWorkedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.minHolidaysWorkedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.minWeekendsWorkedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateAll(FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.dbFWFCSchedulerDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:FWFC_Oncall_After_Hours_Scheduler.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:FWFC_Oncall_After_Hours_Scheduler.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDate.ShiftDateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDate.ShiftDateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDate.ShiftDateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDate">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDateTableAdapters.ShiftDateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDateTableAdapters.TableAdapterManager.UpdateUpdatedRows(FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDate,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDateTableAdapters.TableAdapterManager.UpdateInsertedRows(FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDate,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDateTableAdapters.TableAdapterManager.UpdateDeletedRows(FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDate,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDateTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDateTableAdapters.TableAdapterManager.UpdateAll(FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDate)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDateTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDateTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:FWFC_Oncall_After_Hours_Scheduler.DataSetNameShfitDateTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

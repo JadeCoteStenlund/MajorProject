@@ -1,0 +1,44 @@
+c:\users\tmangata\documents\visual studio 2013\Projects\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC_Oncall_After_Hours_Scheduler.EditorForm.resources
+c:\users\tmangata\documents\visual studio 2013\Projects\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC_Oncall_After_Hours_Scheduler.StartForm.resources
+c:\users\tmangata\documents\visual studio 2013\Projects\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC_Oncall_After_Hours_Scheduler.Resources.resources
+c:\users\tmangata\documents\visual studio 2013\Projects\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC_Oncall_After_Hours_Scheduler.NameShiftDateForm.resources
+c:\users\tmangata\documents\visual studio 2013\Projects\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC Oncall After Hours Scheduler.vbproj.GenerateResource.Cache
+c:\users\tmangata\documents\visual studio 2013\Projects\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\Data\dbFWFCScheduler.mdf
+c:\users\tmangata\documents\visual studio 2013\Projects\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\Data\dbFWFCScheduler_log.ldf
+c:\users\tmangata\documents\visual studio 2013\Projects\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\FWFC Oncall After Hours Scheduler.exe.config
+c:\users\tmangata\documents\visual studio 2013\Projects\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\FWFC Oncall After Hours Scheduler.exe
+c:\users\tmangata\documents\visual studio 2013\Projects\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\FWFC Oncall After Hours Scheduler.pdb
+c:\users\tmangata\documents\visual studio 2013\Projects\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\FWFC Oncall After Hours Scheduler.xml
+c:\users\tmangata\documents\visual studio 2013\Projects\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC Oncall After Hours Scheduler.exe
+c:\users\tmangata\documents\visual studio 2013\Projects\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC Oncall After Hours Scheduler.xml
+c:\users\tmangata\documents\visual studio 2013\Projects\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC Oncall After Hours Scheduler.pdb
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\FWFC Oncall After Hours Scheduler.exe.config
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC Oncall After Hours Scheduler.exe
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC Oncall After Hours Scheduler.xml
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC Oncall After Hours Scheduler.pdb
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\Data\dbFWFCScheduler.mdf
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\Data\dbFWFCScheduler_log.ldf
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\FWFC Oncall After Hours Scheduler.exe
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\FWFC Oncall After Hours Scheduler.pdb
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\FWFC Oncall After Hours Scheduler.xml
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC Oncall After Hours Scheduler.vbprojResolveAssemblyReference.cache
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC_Oncall_After_Hours_Scheduler.EditorForm.resources
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC_Oncall_After_Hours_Scheduler.StartForm.resources
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC_Oncall_After_Hours_Scheduler.Resources.resources
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC_Oncall_After_Hours_Scheduler.NameShiftDateForm.resources
+C:\Users\JadeCS-Laptop\Desktop\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC Oncall After Hours Scheduler.vbproj.GenerateResource.Cache
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\FWFC Oncall After Hours Scheduler.exe.config
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC Oncall After Hours Scheduler.exe
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC Oncall After Hours Scheduler.xml
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC Oncall After Hours Scheduler.pdb
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\Data\dbFWFCScheduler.mdf
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\Data\dbFWFCScheduler_log.ldf
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\FWFC Oncall After Hours Scheduler.exe
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\FWFC Oncall After Hours Scheduler.pdb
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\bin\Debug\FWFC Oncall After Hours Scheduler.xml
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC Oncall After Hours Scheduler.vbprojResolveAssemblyReference.cache
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC_Oncall_After_Hours_Scheduler.EditorForm.resources
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC_Oncall_After_Hours_Scheduler.StartForm.resources
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC_Oncall_After_Hours_Scheduler.Resources.resources
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC_Oncall_After_Hours_Scheduler.NameShiftDateForm.resources
+C:\Users\Ok\Documents\MajorProject\Amalgamated Project\FWFC Oncall After Hours Scheduler\FWFC Oncall After Hours Scheduler\obj\Debug\FWFC Oncall After Hours Scheduler.vbproj.GenerateResource.Cache
