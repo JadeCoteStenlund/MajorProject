@@ -102,6 +102,7 @@
     <Compile Include="EditorForm.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="ModuleAfterhours.vb" />
     <Compile Include="ModuleHolidays.vb" />
     <Compile Include="ModuleOncall.vb" />
     <Compile Include="StartForm.designer.vb">
